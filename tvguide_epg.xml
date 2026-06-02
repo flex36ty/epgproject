@@ -1129,7 +1129,7 @@
   </channel>
   <channel id="tvguide.9200003004.tudn-hd">
     <display-name>TUDN HD</display-name>
-    <display-name>TUDNHD</display-name>
+    <display-name>UNIDEPHD</display-name>
     <display-name>464</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200003004_light.png" />
   </channel>
@@ -1183,13 +1183,13 @@
   </channel>
   <channel id="tvguide.9233013492.hbo-hits-hd">
     <display-name>HBO Hits HD</display-name>
-    <display-name>HBO2HD</display-name>
+    <display-name>HBOHITSHD</display-name>
     <display-name>502</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013492_light.png" />
   </channel>
   <channel id="tvguide.9200002532.hbo-drama-hd">
     <display-name>HBO Drama HD</display-name>
-    <display-name>HBOSIGHD</display-name>
+    <display-name>HBODRAMHD</display-name>
     <display-name>503</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002532_light.png" />
   </channel>
@@ -1339,7 +1339,7 @@
   </channel>
   <channel id="tvguide.9233017279.shoxbet-hd">
     <display-name>SHOxBET HD</display-name>
-    <display-name>SHOBETHD</display-name>
+    <display-name>SHWCASEHD</display-name>
     <display-name>548</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233017279_light.png" />
   </channel>
@@ -1513,7 +1513,7 @@
   </channel>
   <channel id="tvguide.9200009019.kbs-america">
     <display-name>KBS America</display-name>
-    <display-name>KBSAMERI</display-name>
+    <display-name>KBSWORLD</display-name>
     <display-name>2082</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009019_light.png" />
   </channel>
@@ -20890,7 +20890,7 @@
   <programme start="20260601020000 -0400" stop="20260601030000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Inside North Korea's Dynasty</title>
     <sub-title lang="en">Kingdom of the Kims</sub-title>
-    <desc lang="en">For decades, Korea and its people labored under Japanese imperialist rule. But in 1912, in a small town outside Pyongyang, a child is born - Kim Il Sung, coinciding with an omen of imperialism's doom. This is the story of how an unknown guerrilla fighter rises to power, takes complete control of his country and makes himself a god in the eyes of his people. Recounted through firsthand testimony and expertly curated archive, "Kingdom of the Kims" explores Sung's early days in power, how he starts the Korean War, establishes gulags for anyone who could be "hostile", tries to assassinate the President of South Korea, and plays a dangerous game of brinksmanship with the United States, including capturing a U.S. Navy ship - the USS Pueblo - taking American sailors prisoner, and the infamous tree-cutting axe murders in the Demilitarized Zone.</desc>
+    <desc lang="en">A small town near Korea's capitol city serves as the starting point for rebellion as the country struggles to break free from Japanese imperialist rule, and the appearance of Kim Il Sung leads to an i...</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -24031,7 +24031,7 @@
   <programme start="20260601030000 -0400" stop="20260601040000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Inside North Korea's Dynasty</title>
     <sub-title lang="en">The Son of God</sub-title>
-    <desc lang="en">For decades, Korea and its people labored under Japanese imperialist rule. But in 1912, in a small town outside Pyongyang, a child is born - Kim Il Sung, coinciding with an omen of imperialism's doom. This is the story of how an unknown guerrilla fighter rises to power, takes complete control of his country and makes himself a god in the eyes of his people. Recounted through firsthand testimony and expertly curated archive, "Kingdom of the Kims" explores Sung's early days in power, how he starts the Korean War, establishes gulags for anyone who could be "hostile", tries to assassinate the President of South Korea, and plays a dangerous game of brinksmanship with the United States, including capturing a U.S. Navy ship - the USS Pueblo - taking American sailors prisoner, and the infamous tree-cutting axe murders in the Demilitarized Zone.</desc>
+    <desc lang="en">The unique bond between father and son in the country of North Korea is shown as a close look is taken at the power dynamics between Kim Il Sung and Kim Jong Il as one man's failing health leads towar...</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -27303,7 +27303,7 @@
   <programme start="20260601040000 -0400" stop="20260601050000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Inside North Korea's Dynasty</title>
     <sub-title lang="en">Nuclear Family</sub-title>
-    <desc lang="en">For decades, Korea and its people labored under Japanese imperialist rule. But in 1912, in a small town outside Pyongyang, a child is born - Kim Il Sung, coinciding with an omen of imperialism's doom. This is the story of how an unknown guerrilla fighter rises to power, takes complete control of his country and makes himself a god in the eyes of his people. Recounted through firsthand testimony and expertly curated archive, "Kingdom of the Kims" explores Sung's early days in power, how he starts the Korean War, establishes gulags for anyone who could be "hostile", tries to assassinate the President of South Korea, and plays a dangerous game of brinksmanship with the United States, including capturing a U.S. Navy ship - the USS Pueblo - taking American sailors prisoner, and the infamous tree-cutting axe murders in the Demilitarized Zone.</desc>
+    <desc lang="en">A loss of support from the Soviet Union forces North Korea to find answers to the problems it has faced continuously regarding economic stability, and fears within the country mount as the potential s...</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -30433,7 +30433,7 @@
   <programme start="20260601050000 -0400" stop="20260601060000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Inside North Korea's Dynasty</title>
     <sub-title lang="en">Rocket Man</sub-title>
-    <desc lang="en">For decades, Korea and its people labored under Japanese imperialist rule. But in 1912, in a small town outside Pyongyang, a child is born - Kim Il Sung, coinciding with an omen of imperialism's doom. This is the story of how an unknown guerrilla fighter rises to power, takes complete control of his country and makes himself a god in the eyes of his people. Recounted through firsthand testimony and expertly curated archive, "Kingdom of the Kims" explores Sung's early days in power, how he starts the Korean War, establishes gulags for anyone who could be "hostile", tries to assassinate the President of South Korea, and plays a dangerous game of brinksmanship with the United States, including capturing a U.S. Navy ship - the USS Pueblo - taking American sailors prisoner, and the infamous tree-cutting axe murders in the Demilitarized Zone.</desc>
+    <desc lang="en">A power shift within North Korea occurs suddenly as ruler Kim Jong Il suddenly dies, and a look is taken at the efforts made by his son, Kim Jong Un to carry forward with the family legacy while also...</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -30969,7 +30969,7 @@
   <programme start="20260601050000 -0400" stop="20260601060000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">Renegade</title>
     <sub-title lang="en">Knockout</sub-title>
-    <desc lang="en">A female action hero quits the movie business to search for her missing brother. To her shock, he has set up a drug lab and is formulating drugs for the mafia. Reno assists her in getting her brother clean and busting the drug dealers.</desc>
+    <desc lang="en">Bobby and Ms. Bradshaw enter the lingerie business. During a photo shoot, Ms. Bradshaw and her model friends run into thieves who are looting houses and get kidnapped. They must overcome their kidnappers with help from the bounty hunters.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -32157,7 +32157,7 @@
   <programme start="20260601053000 -0400" stop="20260601060000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">Is It Possible to Be Happy?</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
     <date>2018</date>
@@ -39740,7 +39740,7 @@
   <programme start="20260601080000 -0400" stop="20260601090000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Blindsided</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -40021,7 +40021,7 @@
   <programme start="20260601080000 -0400" stop="20260601090000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">To Kill a Town</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">5.25.</episode-num>
@@ -40720,7 +40720,7 @@
   <programme start="20260601080000 -0400" stop="20260601090000 -0400" channel="tvguide.9233004224.american-heroes-channel-hd">
     <title lang="en">The Civil War: Brothers Divided</title>
     <sub-title lang="en">Battle of Nashville</sub-title>
-    <desc lang="en">December 1864: In a daring attempt to regain the upper hand in the Civil War, Confederate forces try to retake the city of Nashville and sever the supply line that's feeding the Union invasion of the south.</desc>
+    <desc lang="en">April 1865: The Union invasion of the south has ground to a halt at the seemingly impregnable ring of trenches built around Petersburg, Virginia. After eight bloody attempts to storm them have failed, two officers from Vermont will lead a daring raid.</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <category lang="en">Action &amp; Adventure</category>
@@ -43177,7 +43177,7 @@
   <programme start="20260601090000 -0400" stop="20260601100000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Culture Shock</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -44213,7 +44213,7 @@
   <programme start="20260601090000 -0400" stop="20260601100000 -0400" channel="tvguide.9233004224.american-heroes-channel-hd">
     <title lang="en">The Civil War: Brothers Divided</title>
     <sub-title lang="en">Battle of Petersburg</sub-title>
-    <desc lang="en">December 1864: In a daring attempt to regain the upper hand in the Civil War, Confederate forces try to retake the city of Nashville and sever the supply line that's feeding the Union invasion of the south.</desc>
+    <desc lang="en">April 1865: The Union invasion of the south has ground to a halt at the seemingly impregnable ring of trenches built around Petersburg, Virginia. After eight bloody attempts to storm them have failed, two officers from Vermont will lead a daring raid.</desc>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <category lang="en">Action &amp; Adventure</category>
@@ -44413,7 +44413,7 @@
   <programme start="20260601090000 -0400" stop="20260601100000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Portugal's Hellfire</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -46570,7 +46570,7 @@
   <programme start="20260601100000 -0400" stop="20260601110000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Lover's Leap</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -47797,7 +47797,7 @@
   <programme start="20260601100000 -0400" stop="20260601110000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Everest Avalanche</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -50255,7 +50255,7 @@
   <programme start="20260601110000 -0400" stop="20260601113000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">You Got Served</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.15.</episode-num>
@@ -51061,7 +51061,7 @@
   <programme start="20260601110000 -0400" stop="20260601120000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Lost in the Bermuda Triangle</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -51258,7 +51258,7 @@
   <programme start="20260601110000 -0400" stop="20260601120000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Pilot</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -51577,7 +51577,7 @@
   <programme start="20260601110000 -0400" stop="20260601120000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Crystal Skull</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -52051,7 +52051,7 @@
   <programme start="20260601113000 -0400" stop="20260601120000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Auction Hunters, Ink.</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.23.</episode-num>
@@ -53498,7 +53498,7 @@
   <programme start="20260601120000 -0400" stop="20260601123000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Animal Instincts</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.8.</episode-num>
@@ -54318,7 +54318,7 @@
   <programme start="20260601120000 -0400" stop="20260601130000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">California Mudslide</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -54520,7 +54520,7 @@
   <programme start="20260601120000 -0400" stop="20260601130000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">The Lorelais' First Day at Chilton</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -54866,7 +54866,7 @@
   <programme start="20260601120000 -0400" stop="20260601130000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Spy Who Mugged Me</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -54903,7 +54903,7 @@
   <programme start="20260601120000 -0400" stop="20260601130000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Road Block</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -55334,7 +55334,7 @@
   <programme start="20260601123000 -0400" stop="20260601130000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Don't Taze Me Bro</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.11.</episode-num>
@@ -56798,7 +56798,7 @@
   <programme start="20260601130000 -0400" stop="20260601133000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Beantown Bidders</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.12.</episode-num>
@@ -57596,7 +57596,7 @@
   <programme start="20260601130000 -0400" stop="20260601140000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Tornado Outbreak</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -57785,7 +57785,7 @@
   <programme start="20260601130000 -0400" stop="20260601140000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Kill Me Now</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -58056,7 +58056,7 @@
   <programme start="20260601130000 -0400" stop="20260601133000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">The Third Party Law</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
     <date>2018</date>
@@ -58129,7 +58129,7 @@
   <programme start="20260601130000 -0400" stop="20260601140000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Grey Team</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -58165,7 +58165,7 @@
   <programme start="20260601130000 -0400" stop="20260601140000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Silent Partner</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -58686,7 +58686,7 @@
   <programme start="20260601133000 -0400" stop="20260601140000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Betsy's Last Stand</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.4.</episode-num>
@@ -60267,7 +60267,7 @@
   <programme start="20260601140000 -0400" stop="20260601143000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">You Foos You Lose</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.18.</episode-num>
@@ -61072,7 +61072,7 @@
   <programme start="20260601140000 -0400" stop="20260601150000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Chilean Mine Rescue</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -61689,7 +61689,7 @@
   <programme start="20260601140000 -0400" stop="20260601150000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Without Reservations</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -61725,7 +61725,7 @@
   <programme start="20260601140000 -0400" stop="20260601150000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Hostile Witness</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -62238,7 +62238,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601143000 -0400" stop="20260601150000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Diesel Digs</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.13.</episode-num>
@@ -63633,7 +63633,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601150000 -0400" stop="20260601153000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Disco and Dice</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.3.</episode-num>
@@ -64945,7 +64945,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601150000 -0400" stop="20260601160000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Mexican Slayride (Part 1)</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -64982,7 +64982,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601150000 -0400" stop="20260601160000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Fool's Gold</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -65477,7 +65477,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601153000 -0400" stop="20260601160000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Battle Bought</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.22.</episode-num>
@@ -66915,7 +66915,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601160000 -0400" stop="20260601163000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Everything's Bigger in Texas</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.12.</episode-num>
@@ -68286,7 +68286,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601160000 -0400" stop="20260601170000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Mexican Slayride (Part 2)</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -68322,7 +68322,7 @@ As he tries to maintain a normal life, he takes a job as a janitor at a bank, wh
   <programme start="20260601160000 -0400" stop="20260601170000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Drug Fiend</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -68589,7 +68589,7 @@ Horror legends Peter Cushing and Christopher Lee team up as the Baron and the Mo
   <programme start="20260601161800 -0400" stop="20260601164500 -0400" channel="tvguide.9200005938.starz-encore-westerns-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">Laredo</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.15.</episode-num>
@@ -68849,7 +68849,7 @@ Horror legends Peter Cushing and Christopher Lee team up as the Baron and the Mo
   <programme start="20260601163000 -0400" stop="20260601170000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Early Bird Special</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.21.</episode-num>
@@ -69734,7 +69734,7 @@ Horror legends Peter Cushing and Christopher Lee team up as the Baron and the Mo
   <programme start="20260601164500 -0400" stop="20260601171200 -0400" channel="tvguide.9200005938.starz-encore-westerns-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">The Witness</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.16.</episode-num>
@@ -70395,7 +70395,7 @@ Horror legends Peter Cushing and Christopher Lee team up as the Baron and the Mo
   <programme start="20260601170000 -0400" stop="20260601173000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Big Sis Ducks Out</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.23.</episode-num>
@@ -72120,7 +72120,7 @@ Horror legends Peter Cushing and Christopher Lee team up as the Baron and the Mo
   <programme start="20260601173000 -0400" stop="20260601180000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Brew-Phobia</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.18.</episode-num>
@@ -73521,7 +73521,7 @@ His goal? Use the money to complete his ancestor’s work of creating a monster 
   <programme start="20260601180000 -0400" stop="20260601183000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Haff-inated</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.17.</episode-num>
@@ -74994,7 +74994,7 @@ His goal? Use the money to complete his ancestor’s work of creating a monster 
   <programme start="20260601180000 -0400" stop="20260601190000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Cherry Bomb</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -75511,7 +75511,7 @@ His goal? Use the money to complete his ancestor’s work of creating a monster 
   <programme start="20260601183000 -0400" stop="20260601190000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Catch My Drift</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.19.</episode-num>
@@ -76840,7 +76840,7 @@ His goal? Use the money to complete his ancestor’s work of creating a monster 
   <programme start="20260601190000 -0400" stop="20260601193000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Carnies &amp; Armories</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.13.</episode-num>
@@ -78238,7 +78238,7 @@ His goal? Use the money to complete his ancestor’s work of creating a monster 
   <programme start="20260601190000 -0400" stop="20260601200000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Live Wire</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -78771,7 +78771,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601193000 -0400" stop="20260601200000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Risk &amp; Reward</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.5.</episode-num>
@@ -80207,7 +80207,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601200000 -0400" stop="20260601203000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Gone in 20 Seconds</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.24.</episode-num>
@@ -82033,7 +82033,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601203000 -0400" stop="20260601210000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Hook, Line and Printer</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.2.</episode-num>
@@ -83302,7 +83302,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601210000 -0400" stop="20260601213000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Blazing Saddles</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">4.6.</episode-num>
@@ -85004,7 +85004,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601213000 -0400" stop="20260601220000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Allen's Big Crush</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.19.</episode-num>
@@ -86227,7 +86227,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601220000 -0400" stop="20260601223000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">To Pawn or Not to Pawn</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">3.25.</episode-num>
@@ -87921,7 +87921,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601223000 -0400" stop="20260601230000 -0400" channel="tvguide.9200012265.mtv2-hd">
     <title lang="en">Auction Hunters</title>
     <sub-title lang="en">Half Pipe Dreams</sub-title>
-    <desc lang="en">With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
+    <desc lang="en">Ton and Allen head to a Hollywood auction and face a new competitor with a seemingly endless cash flow. After they uncover a triple barrel shotgun and an antique camel saddle, Allen confronts an old childhood fear.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">1.15.</episode-num>
@@ -90827,7 +90827,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260601230000 -0400" stop="20260602000000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Farewell, My Pet</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">6.13.</episode-num>
@@ -94170,7 +94170,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260602000000 -0400" stop="20260602010000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">I'm a Kayak, Hear Me Roar</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">6.14.</episode-num>
@@ -96340,7 +96340,7 @@ Now, for the first time, Richard Donner’s never-before-seen vision is here on 
   <programme start="20260602010000 -0400" stop="20260602020000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Till Death Do Us Part</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -99558,7 +99558,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602020000 -0400" stop="20260602030000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Beast from the Belly of a Boeing</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -100067,7 +100067,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602020000 -0400" stop="20260602030000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Chilean Mine Rescue</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -100636,7 +100636,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602020000 -0400" stop="20260602030000 -0400" channel="tvguide.9266075641.grit-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">Return to Yesterday</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">5.15.</episode-num>
@@ -100670,7 +100670,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602020000 -0400" stop="20260602030000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">Renegade</title>
     <sub-title lang="en">Sex, Lies and Activewear</sub-title>
-    <desc lang="en">A female action hero quits the movie business to search for her missing brother. To her shock, he has set up a drug lab and is formulating drugs for the mafia. Reno assists her in getting her brother clean and busting the drug dealers.</desc>
+    <desc lang="en">Bobby and Ms. Bradshaw enter the lingerie business. During a photo shoot, Ms. Bradshaw and her model friends run into thieves who are looting houses and get kidnapped. They must overcome their kidnappers with help from the bounty hunters.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -101192,7 +101192,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602023000 -0400" stop="20260602030000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">Deadwood</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.30.</episode-num>
@@ -103009,7 +103009,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602030000 -0400" stop="20260602040000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">A Nice Place to Visit</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -103528,7 +103528,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602030000 -0400" stop="20260602040000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Tornado Outbreak</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -106532,7 +106532,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602040000 -0400" stop="20260602050000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Diamonds 'N Dust</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -107067,7 +107067,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602040000 -0400" stop="20260602050000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">California Mudslide</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -110112,7 +110112,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602050000 -0400" stop="20260602060000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Recipe for Heavy Bread</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -110598,7 +110598,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602050000 -0400" stop="20260602060000 -0400" channel="tvguide.9233009337.national-geographic-channel-hd">
     <title lang="en">Witness to Disaster</title>
     <sub-title lang="en">Lost in the Bermuda Triangle</sub-title>
-    <desc lang="en">In April 2011, over just 4 days, 360 tornadoes leave a trail of devastation. One of the deadliest tornadoes touches down in Alabama, destroying 2 towns in 15min. By 28th April, 348 people have been killed and the damage exceeds $12billion.</desc>
+    <desc lang="en">A rock collapses inside a mine in Chile, trapping 33 miners almost half a mile under some of the hardest rock on Earth. The Chilean authorities and an international rescue team face a major challenge - they must find the men and, if they're still alive, figure out how to bring them to the surface. Never before has this type of rescue been attempted, and no one knows if it will succeed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -113577,7 +113577,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602060000 -0400" stop="20260602070000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Only Church in Town</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -115988,7 +115988,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602063000 -0400" stop="20260602070000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">My Philosophy</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
     <date>2018</date>
@@ -117101,7 +117101,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602070000 -0400" stop="20260602080000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Bad Time on the Border</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -119868,7 +119868,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602080000 -0400" stop="20260602090000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">'Til Death Do Us, Part 1</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -120150,7 +120150,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602080000 -0400" stop="20260602090000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">End of a Minor God</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">5.26.</episode-num>
@@ -120510,7 +120510,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602080000 -0400" stop="20260602090000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">When You Comin' Back, Range Rider?: Part 1</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -121523,7 +121523,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602080000 -0400" stop="20260602083000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">My Philosophy</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
     <date>2018</date>
@@ -123265,7 +123265,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602090000 -0400" stop="20260602100000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">'Til Death Do Us, Part 2</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -123919,7 +123919,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602090000 -0400" stop="20260602100000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">When You Comin' Back, Range Rider?: Part 2</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -126564,7 +126564,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602100000 -0400" stop="20260602110000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Next of Kin, Part 1</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -127238,7 +127238,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602100000 -0400" stop="20260602110000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">The Taxicab Wars</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -130479,7 +130479,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602110000 -0400" stop="20260602120000 -0400" channel="tvguide.9200018375.sundance-tv-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Labor Pains</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -131205,7 +131205,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602110000 -0400" stop="20260602120000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">The Deer Hunters</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -131523,7 +131523,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602110000 -0400" stop="20260602120000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Children of Jamestown</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -134490,7 +134490,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602120000 -0400" stop="20260602130000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Cinnamon's Wake</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -137758,7 +137758,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602130000 -0400" stop="20260602140000 -0400" channel="tvguide.9233015586.hallmark-channel-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Rory's Birthday Parties</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -144827,7 +144827,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602150000 -0400" stop="20260602153000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">Is It Possible to Be Happy?</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
     <date>2018</date>
@@ -149698,7 +149698,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602164500 -0400" stop="20260602171200 -0400" channel="tvguide.9200005938.starz-encore-westerns-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">Stage West</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.18.</episode-num>
@@ -155100,7 +155100,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602180000 -0400" stop="20260602190000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Dial M for Provenza</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -158287,7 +158287,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602190000 -0400" stop="20260602200000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Problem Child</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -159280,7 +159280,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260602193000 -0400" stop="20260602200000 -0400" channel="tvguide.9266073332.scientology-network">
     <title lang="en">L. Ron Hubbard Library Presents</title>
     <sub-title lang="en">Honest People Have Rights, Too</sub-title>
-    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "The Third Party Law" is a compelling study into the hidden causes of conflict, from strife between family members to wars between nations.</desc>
+    <desc lang="en">One in a series of groundbreaking articles by L. Ron Hubbard, "Honest People Have Rights, Too," is a revolutionary essay on the very nature of freedom, and the battle between those who seek it and those wishing to destroy it.</desc>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
     <date>2018</date>
@@ -165696,8 +165696,8 @@ forest. The magical adventures and on-goings in the village feature a large cast
   </programme>
   <programme start="20260602215200 -0400" stop="20260602232500 -0400" channel="tvguide.9200000143.cinemax-hd">
     <title lang="en">The Three Stooges</title>
-    <desc lang="en">Will Sasso, Sean Hayes and Chris Diamantopoulos bring The Boys back to the big screen with plenty of madcap slapstick action.
-
+    <desc lang="en">Will Sasso, Sean Hayes and Chris Diamantopoulos bring The Boys back to the big screen with plenty of madcap slapstick action.
+
 Moe, Larry and Curly are sent out into the world to try to save the orphanage where they grew up.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Family</category>
@@ -165710,8 +165710,8 @@ Moe, Larry and Curly are sent out into the world to try to save the orphanage wh
   </programme>
   <programme start="20260602215200 -0400" stop="20260602232500 -0400" channel="tvguide.9200005035.cinemax-hd-latino">
     <title lang="en">The Three Stooges</title>
-    <desc lang="en">Will Sasso, Sean Hayes and Chris Diamantopoulos bring The Boys back to the big screen with plenty of madcap slapstick action.
-
+    <desc lang="en">Will Sasso, Sean Hayes and Chris Diamantopoulos bring The Boys back to the big screen with plenty of madcap slapstick action.
+
 Moe, Larry and Curly are sent out into the world to try to save the orphanage where they grew up.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Family</category>
@@ -170850,7 +170850,7 @@ Moe, Larry and Curly are sent out into the world to try to save the orphanage wh
   <programme start="20260602230000 -0400" stop="20260603000000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Will You Be My Lorelai Gilmore?</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">6.15.</episode-num>
@@ -174235,7 +174235,7 @@ Moe, Larry and Curly are sent out into the world to try to save the orphanage wh
   <programme start="20260603000000 -0400" stop="20260603010000 -0400" channel="tvguide.9266076912.start-tv-hd">
     <title lang="en">Gilmore Girls</title>
     <sub-title lang="en">Gilmore Girls Only</sub-title>
-    <desc lang="en">Rory quickly develops a crush on Richard's replacement TA and feels compelled to confess the attraction to Logan. But she feels really bad about it and he completely understands and the two of them reassure each other.</desc>
+    <desc lang="en">Lorelai has trouble telling her parents about the end of her marriage to Christopher, instead getting distracted by the new healthy lifestyle Emily wants to impose upon Richard. Meanwhile, Rory goes to Logan's birthday dinner, which is awkward, stiff and formal. Still, Logan's dad wants her to help his son keep working in the right direction; Lorelai finally confesses to her mother about the end of her marriage, and Emily reacts coldly to the news; and, Logan learns that the on-line company he recently purchased is involved in patent infringement, which the originating company hopes to use to sue the pants off of his company.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">6.16.</episode-num>
@@ -179190,7 +179190,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603020000 -0400" stop="20260603023000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">The Gun</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.31.</episode-num>
@@ -180635,7 +180635,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603020000 -0400" stop="20260603030000 -0400" channel="tvguide.9266076909.heroes-icons-network-hd">
     <title lang="en">Renegade</title>
     <sub-title lang="en">Blood Hunt</sub-title>
-    <desc lang="en">A female action hero quits the movie business to search for her missing brother. To her shock, he has set up a drug lab and is formulating drugs for the mafia. Reno assists her in getting her brother clean and busting the drug dealers.</desc>
+    <desc lang="en">Bobby and Ms. Bradshaw enter the lingerie business. During a photo shoot, Ms. Bradshaw and her model friends run into thieves who are looting houses and get kidnapped. They must overcome their kidnappers with help from the bounty hunters.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -181220,7 +181220,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603023000 -0400" stop="20260603030000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">The Reward</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">1.32.</episode-num>
@@ -195187,7 +195187,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603063000 -0400" stop="20260603073000 -0400" channel="tvguide.9200009303.bbc-america-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Alive at Five</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -198646,7 +198646,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603073000 -0400" stop="20260603083000 -0400" channel="tvguide.9200009303.bbc-america-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Family Reunion</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -199857,7 +199857,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603080000 -0400" stop="20260603090000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Next of Kin, Part 2</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -200131,7 +200131,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603080000 -0400" stop="20260603090000 -0400" channel="tvguide.9200009887.the-inspiration-network-hd">
     <title lang="en">Tales of Wells Fargo</title>
     <sub-title lang="en">Remember the Yazoo</sub-title>
-    <desc lang="en">Gunfighter Billy Trent books passage on a Wells Fargo stage heading to Oregon, a trip which will take nine days. He is being followed by a gang trying to collect a $500 bounty on him. Since Jim Hardie can't dissuade Trent from taking the stage, he rides along to protect the other passengers from being caught in the crossfire.</desc>
+    <desc lang="en">The shipment of large sums of money by Wells Fargo down the Mississippi brings Jim Hardie and Jeb Gaine to New Orleans. They uncover a plan to hijack the money. But the architect of the robbery may be a trusted Wells Fargo employee.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Western</category>
     <episode-num system="xmltv_ns">5.27.</episode-num>
@@ -201002,7 +201002,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603080000 -0400" stop="20260603090000 -0400" channel="tvguide.9233008142.travel-channel-hd">
     <title lang="en">Portals to Hell</title>
     <sub-title lang="en">Kreischer Mansion</sub-title>
-    <desc lang="en">Jack Osbourne and Katrina Weidman head to Plymouth, Massachusetts, to investigate the historic Taylor Trask Museum, which has never been investigated on television. The caretaker, Jan, wants to calm the restless spirits, but with the recent uptick in paranormal activity, she fears for her safety.</desc>
+    <desc lang="en">Katrina takes Jack to Kreischer Mansion in Staten Island, N.Y., to take another look at a paranormal experience, and they discover a new spirit that has taken up residence since Katrina's last visit,...</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">2.0.</episode-num>
@@ -202138,7 +202138,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603083000 -0400" stop="20260603093000 -0400" channel="tvguide.9200009303.bbc-america-hd">
     <title lang="en">The A-Team</title>
     <sub-title lang="en">Point of No Return</sub-title>
-    <desc lang="en">Faceman wants to get out of Stockwell's operation, thinking the A-Team won't receive a pardon before dying in action. He plans to make a break after rescuing reporter Sally Vogel from the mansion of mob boss Tommy "The Player" Tedesco. However, once they have done so, Sally informs them that Tommy is about to assassinate union boss Brick Peterson.</desc>
+    <desc lang="en">Using the call sign Empress 7, Hannibal Smith has disappeared on a solo mission for General Stockwell in Hong Kong involving a plutonium theft. Naturally The A-Team wants to go get him, but Stockwell, an expert on the region, insists on leading the mission. They soon find Alice Heath, who was working with Hannibal on the case, but no sign of the Colonel himself. Face and Murdock (Empress 8 and 9) do some investigating of their own and meet a young street peddler called Bobby.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -203219,7 +203219,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603090000 -0400" stop="20260603100000 -0400" channel="tvguide.9200000502.lifetime-hd">
     <title lang="en">The Closer</title>
     <sub-title lang="en">Controlled Burn</sub-title>
-    <desc lang="en">Major Crimes investigates after a car belonging to Police Commissioner Jay Meyers kills 19 year-old college freshman Gracie Ann Gates in a hit and run accident. Detective Flynn witnessed the accident - with the car driving in the wrong lane - but the commissioner's wife Gail, driving while drunk, claims her car was stolen while she was at dinner with her daughter and some of her friends. Brenda suspects her from the outset, but Chief Pope wants her to go slow (until he learns of her near arrest the previous summer for drunk driving ). She could now be charged with murder rather than manslaughter - and that's exactly want Brenda wants to do to get her firmly off the streets.</desc>
+    <desc lang="en">Brenda and Major Crimes investigate the murder of James Turner, known within the One-Ten-Crips as J-Rock and found executed in a car registered to the late Terrell Baylor along with lawyer Peter Goldman's business card in his pocket. Goldman, who represents the Baylor family in their wrongful death suit against Brenda and the LAPD, had visited Reggie Moses in San Quentin the previous day. Reggie, in turn, made a call after their meeting to Martin Evans, a former gang member who Brenda is certain ordered Baylor's death. Proving it could bring an end to Goldman's civil suit, but Brenda wants more than that. As the investigation starts, Sanchez privately but firmly warns Brenda that anything she says or does in the squad will be leaked to Goldman, and to trust no one.</desc>
     <category lang="en">Suspense</category>
     <category lang="en">Crime</category>
     <category lang="en">Mystery</category>
@@ -204379,7 +204379,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603090000 -0400" stop="20260603100000 -0400" channel="tvguide.9233008142.travel-channel-hd">
     <title lang="en">Portals to Hell</title>
     <sub-title lang="en">Taylor Trask Museum</sub-title>
-    <desc lang="en">Jack Osbourne and Katrina Weidman head to Plymouth, Massachusetts, to investigate the historic Taylor Trask Museum, which has never been investigated on television. The caretaker, Jan, wants to calm the restless spirits, but with the recent uptick in paranormal activity, she fears for her safety.</desc>
+    <desc lang="en">Jack Osbourne and Katrina Weidman investigate the Taylor Trask Museum in Plymouth, Mass., where they meet a caretaker who fears for her safety due to the uptick in paranormal activity, so the experts...</desc>
     <category lang="en">Reality</category>
     <category lang="en">Reality-TV</category>
     <episode-num system="xmltv_ns">2.2.</episode-num>
