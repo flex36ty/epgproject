@@ -48,17 +48,17 @@
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002629_light.png" />
   </channel>
-  <channel id="tvguide.9200016009.katu-dt-portland-ore-abc">
-    <display-name>KATU-DT Portland, Ore. (ABC)</display-name>
-    <display-name>KATU</display-name>
-    <display-name>2</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016009_light.png" />
-  </channel>
   <channel id="tvguide.9233011589.khqa-dt2-hannibal-mo-abc">
     <display-name>KHQA-DT2 Hannibal, Mo. (ABC)</display-name>
     <display-name>KHQA-DT2</display-name>
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011589_light.png" />
+  </channel>
+  <channel id="tvguide.9200016009.katu-dt-portland-ore-abc">
+    <display-name>KATU-DT Portland, Ore. (ABC)</display-name>
+    <display-name>KATU</display-name>
+    <display-name>2</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016009_light.png" />
   </channel>
   <channel id="tvguide.9233008032.kqtv-dt-st-joseph-mo-abc">
     <display-name>KQTV-DT St. Joseph, Mo. (ABC)</display-name>
@@ -252,17 +252,17 @@
     <display-name>6</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200020007_light.png" />
   </channel>
-  <channel id="tvguide.9233015158.wpvi-dt-philadelphia-pa-abc">
-    <display-name>WPVI-DT Philadelphia, Pa. (ABC)</display-name>
-    <display-name>WPVI-DT</display-name>
-    <display-name>6</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015158_light.png" />
-  </channel>
   <channel id="tvguide.9200011659.wlne-dt-new-bedford-mass-roar">
     <display-name>WLNE-DT New Bedford, Mass. (ROAR)</display-name>
     <display-name>WLNE-DT</display-name>
     <display-name>6</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011659_light.png" />
+  </channel>
+  <channel id="tvguide.9233015158.wpvi-dt-philadelphia-pa-abc">
+    <display-name>WPVI-DT Philadelphia, Pa. (ABC)</display-name>
+    <display-name>WPVI-DT</display-name>
+    <display-name>6</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015158_light.png" />
   </channel>
   <channel id="tvguide.9233009162.kaal-dt-austin-minn-abc">
     <display-name>KAAL-DT Austin, Minn. (ABC)</display-name>
@@ -384,17 +384,17 @@
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070511_light.png" />
   </channel>
-  <channel id="tvguide.9233013302.wwti-dt-watertown-n-y-abc">
-    <display-name>WWTI-DT Watertown, N.Y. (ABC)</display-name>
-    <display-name>WWTI-DT</display-name>
-    <display-name>7</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013302_light.png" />
-  </channel>
   <channel id="tvguide.9200006227.wjla-dt-washington-d-c-abc">
     <display-name>WJLA-DT Washington, D.C. (ABC)</display-name>
     <display-name>WJLA-DT</display-name>
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006227_light.png" />
+  </channel>
+  <channel id="tvguide.9233013302.wwti-dt-watertown-n-y-abc">
+    <display-name>WWTI-DT Watertown, N.Y. (ABC)</display-name>
+    <display-name>WWTI-DT</display-name>
+    <display-name>7</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013302_light.png" />
   </channel>
   <channel id="tvguide.9200002252.wfaa-dt-dallas-texas-abc">
     <display-name>WFAA-DT Dallas, Texas (ABC)</display-name>
@@ -474,17 +474,17 @@
     <display-name>8</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008850_light.png" />
   </channel>
-  <channel id="tvguide.9233013193.wsoc-dt-charlotte-n-c-abc">
-    <display-name>WSOC-DT Charlotte, N.C. (ABC)</display-name>
-    <display-name>WSOC-DT</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013193_light.png" />
-  </channel>
   <channel id="tvguide.9233013238.wtvc-dt-chattanooga-tenn-abc">
     <display-name>WTVC-DT Chattanooga, Tenn. (ABC)</display-name>
     <display-name>WTVC-DT</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013238_light.png" />
+  </channel>
+  <channel id="tvguide.9233013193.wsoc-dt-charlotte-n-c-abc">
+    <display-name>WSOC-DT Charlotte, N.C. (ABC)</display-name>
+    <display-name>WSOC-DT</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013193_light.png" />
   </channel>
   <channel id="tvguide.9233013288.wlos-dt-asheville-n-c-abc">
     <display-name>WLOS-DT Asheville, N.C. (ABC)</display-name>
@@ -510,17 +510,17 @@
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233009115_light.png" />
   </channel>
-  <channel id="tvguide.9233006804.kcrg-dt-cedar-rapids-iowa-abc">
-    <display-name>KCRG-DT Cedar Rapids, Iowa (ABC)</display-name>
-    <display-name>KCRG-DT</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233006804_light.png" />
-  </channel>
   <channel id="tvguide.9233003525.wmur-dt-manchester-n-h-abc">
     <display-name>WMUR-DT Manchester, N.H. (ABC)</display-name>
     <display-name>WMUR-DT</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003525_light.png" />
+  </channel>
+  <channel id="tvguide.9233006804.kcrg-dt-cedar-rapids-iowa-abc">
+    <display-name>KCRG-DT Cedar Rapids, Iowa (ABC)</display-name>
+    <display-name>KCRG-DT</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233006804_light.png" />
   </channel>
   <channel id="tvguide.9200008781.wcpo-dt-cincinnati-ohio-abc">
     <display-name>WCPO-DT Cincinnati, Ohio (ABC)</display-name>
@@ -534,17 +534,17 @@
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233000798_light.png" />
   </channel>
-  <channel id="tvguide.9200004381.kcau-dt-sioux-city-iowa-abc">
-    <display-name>KCAU-DT Sioux City, Iowa (ABC)</display-name>
-    <display-name>KCAU-DT</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004381_light.png" />
-  </channel>
   <channel id="tvguide.9233015228.wsyr-dt-syracuse-n-y-abc">
     <display-name>WSYR-DT Syracuse, N.Y. (ABC)</display-name>
     <display-name>WSYR-DT</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015228_light.png" />
+  </channel>
+  <channel id="tvguide.9200004381.kcau-dt-sioux-city-iowa-abc">
+    <display-name>KCAU-DT Sioux City, Iowa (ABC)</display-name>
+    <display-name>KCAU-DT</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004381_light.png" />
   </channel>
   <channel id="tvguide.9200013384.kgun-dt-tucson-ariz-abc">
     <display-name>KGUN-DT Tucson, Ariz. (ABC)</display-name>
@@ -558,17 +558,17 @@
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015213_light.png" />
   </channel>
-  <channel id="tvguide.9200000087.kxtv-dt-sacramento-calif-abc">
-    <display-name>KXTV-DT Sacramento, Calif. (ABC)</display-name>
-    <display-name>KXTV-DT</display-name>
-    <display-name>10</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000087_light.png" />
-  </channel>
   <channel id="tvguide.9233013587.kgtv-dt-san-diego-calif-abc">
     <display-name>KGTV-DT San Diego, Calif. (ABC)</display-name>
     <display-name>KGTV-DT</display-name>
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013587_light.png" />
+  </channel>
+  <channel id="tvguide.9200000087.kxtv-dt-sacramento-calif-abc">
+    <display-name>KXTV-DT Sacramento, Calif. (ABC)</display-name>
+    <display-name>KXTV-DT</display-name>
+    <display-name>10</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000087_light.png" />
   </channel>
   <channel id="tvguide.9233013230.kake-dt-wichita-kan-abc">
     <display-name>KAKE-DT Wichita, Kan. (ABC)</display-name>
@@ -738,17 +738,17 @@
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200021188_light.png" />
   </channel>
+  <channel id="tvguide.9200019863.wvec-dt-hampton-va-abc">
+    <display-name>WVEC-DT Hampton, Va. (ABC)</display-name>
+    <display-name>WVEC-DT</display-name>
+    <display-name>13</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019863_light.png" />
+  </channel>
   <channel id="tvguide.9233013218.ktnv-dt-las-vegas-nev-abc">
     <display-name>KTNV-DT Las Vegas, Nev. (ABC)</display-name>
     <display-name>KTNV-DT</display-name>
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013218_light.png" />
-  </channel>
-  <channel id="tvguide.9200019863.wvec-dt-hampton-va-abc">
-    <display-name>WVEC-DT Hampton, Va. (ABC)</display-name>
-    <display-name>WVEC</display-name>
-    <display-name>13</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019863_light.png" />
   </channel>
   <channel id="tvguide.9233001763.wset-dt-lynchburg-va-abc">
     <display-name>WSET-DT Lynchburg, Va. (ABC)</display-name>
@@ -1038,17 +1038,17 @@
     <display-name>34</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070410_light.png" />
   </channel>
-  <channel id="tvguide.9266072808.wpby-ld-lafayette-ind-abc">
-    <display-name>WPBY-LD Lafayette, Ind. (ABC)</display-name>
-    <display-name>WPBY-LD</display-name>
-    <display-name>35</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266072808_light.png" />
-  </channel>
   <channel id="tvguide.9200012121.wohl-cd-lima-ohio-abc">
     <display-name>WOHL-CD Lima, Ohio (ABC)</display-name>
     <display-name>WOHL-CD</display-name>
     <display-name>35</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200012121_light.png" />
+  </channel>
+  <channel id="tvguide.9266072808.wpby-ld-lafayette-ind-abc">
+    <display-name>WPBY-LD Lafayette, Ind. (ABC)</display-name>
+    <display-name>WPBY-LD</display-name>
+    <display-name>35</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266072808_light.png" />
   </channel>
   <channel id="tvguide.9200017993.kapp-dt-yakima-wash-abc">
     <display-name>KAPP-DT Yakima, Wash. (ABC)</display-name>
