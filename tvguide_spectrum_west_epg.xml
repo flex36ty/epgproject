@@ -248,7 +248,7 @@
   </channel>
   <channel id="tvguide.9233000410.fox-news-channel">
     <display-name>Fox News Channel</display-name>
-    <display-name>FNC</display-name>
+    <display-name>FOXNEW</display-name>
     <display-name>45</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233000410_light.png" />
   </channel>
@@ -266,7 +266,7 @@
   </channel>
   <channel id="tvguide.9233006803.ms-now">
     <display-name>MS NOW</display-name>
-    <display-name>MSNBC</display-name>
+    <display-name>MSNOW</display-name>
     <display-name>49</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233006803_light.png" />
   </channel>
@@ -836,7 +836,7 @@
   </channel>
   <channel id="tvguide.9233015844.boomerang">
     <display-name>Boomerang</display-name>
-    <display-name>BOOM</display-name>
+    <display-name>BOOM-E</display-name>
     <display-name>253</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015844_light.png" />
   </channel>
@@ -1238,7 +1238,7 @@
   </channel>
   <channel id="tvguide.9233015599.paramount-with-showtime-west">
     <display-name>Paramount+ with Showtime (West)</display-name>
-    <display-name>ParSHOw</display-name>
+    <display-name>SHOWAL</display-name>
     <display-name>551</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015599_light.png" />
   </channel>
@@ -2255,7 +2255,7 @@
   </channel>
   <channel id="tvguide.9200009019.kbs-america">
     <display-name>KBS America</display-name>
-    <display-name>KBSAMERI</display-name>
+    <display-name>KBSWORLD</display-name>
     <display-name>1475</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009019_light.png" />
   </channel>
@@ -11127,7 +11127,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260601213000 -0400" stop="20260601220000 -0400" channel="tvguide.9200006386.klcs-dt2-los-angeles-calif-pbs-kids-24-7">
     <title lang="en">Ready Jet Go!</title>
     <sub-title lang="en">Souped-Up Saucer; Pet Sounds</sub-title>
-    <desc lang="en">After Celery adds new features to the family saucer for the kids to use, they all test drive it by taking a trip to the moon; while taking care of Mitchell's dog Cody for the weekend, Jet tries to tea...</desc>
+    <desc lang="en">When Jet finds out that the entire Earth doesn't have the same season at the same time, he's amazed. Then, when Mindy feels bad that she's the smallest kid in the group, Jet gets the idea to shrink the rest of them down to her size!</desc>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Science Fiction</category>
@@ -31692,7 +31692,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602020000 -0400" stop="20260602030000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 108</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -51881,7 +51881,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602060000 -0400" stop="20260602070000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 108</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -69213,7 +69213,7 @@ At the police academy they trained together. Now they’re on the job together. 
   </programme>
   <programme start="20260602090000 -0400" stop="20260602100000 -0400" channel="tvguide.9200018167.kdoc-dt-anaheim-calif-tct">
     <title lang="en">The 700 Club</title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -71408,7 +71408,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602093000 -0400" stop="20260602100000 -0400" channel="tvguide.9200006386.klcs-dt2-los-angeles-calif-pbs-kids-24-7">
     <title lang="en">Ready Jet Go!</title>
     <sub-title lang="en">Asteroid Belt Space Race; Sydney 2</sub-title>
-    <desc lang="en">The kids, Celery, Uncle Zucchini, Auntie Eggplant and Zerk all participate in a space race around the Asteroid Belt; when Sydney decides that Jet's robot is lonely, she designs and builds a robot comp...</desc>
+    <desc lang="en">When Jet finds out that the entire Earth doesn't have the same season at the same time, he's amazed. Then, when Mindy feels bad that she's the smallest kid in the group, Jet gets the idea to shrink the rest of them down to her size!</desc>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Science Fiction</category>
@@ -83252,7 +83252,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602120000 -0400" stop="20260602130000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 109</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -85505,7 +85505,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602120000 -0400" stop="20260602130000 -0400" channel="tvguide.9233011218.kcop-dt-los-angeles-calif-mynet">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 109</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -89279,7 +89279,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602130000 -0400" stop="20260602133000 -0400" channel="tvguide.9200015852.kpom-cd-ontario-calif-catchy-comedy">
     <title lang="en">The Dick Van Dyke Show</title>
     <sub-title lang="en">The Great Petrie Fortune</sub-title>
-    <desc lang="en">Rob inherits an old roll-top desk from his late great-uncle and a song implies there is a type of wealth hidden somewhere inside; Rob tries to solve the mystery behind the desk to gain an even greater...</desc>
+    <desc lang="en">Rob and Laura attend the reading of the will left by Rob's elderly Uncle Hezekiah. After some fairly generous financial bequests are given to Rob's relatives, they are ushered out of the room, and Rob and Laura are shown a short film of Uncle Hezekiah informing Rob that he's left him his old roll-top desk; Hezekiah then sings him a chorus of "Me and My Shadow," which is supposed to be a clue to a "treasure" Hezekiah claims is hidden in the desk.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">4.6.</episode-num>
@@ -99288,7 +99288,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602150000 -0400" stop="20260602160000 -0400" channel="tvguide.9200014506.ktbn-dt-santa-ana-calif-tbn">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 109</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -102061,7 +102061,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602153000 -0400" stop="20260602160000 -0400" channel="tvguide.9200017956.klcs-dt-los-angeles-calif-pbs">
     <title lang="en">Ready Jet Go!</title>
     <sub-title lang="en">That's One Gigantic Pumpkin, Jet Propulsion!</sub-title>
-    <desc lang="en">While attempting to grow prize-winning pumpkins in the backyard, Jet gets carried away and uses his Bortronian Grow-Lamp to grow a huge pumpkin, leaving the kids to figure out how to get the pumpkin d...</desc>
+    <desc lang="en">When Jet finds out that the entire Earth doesn't have the same season at the same time, he's amazed. Then, when Mindy feels bad that she's the smallest kid in the group, Jet gets the idea to shrink the rest of them down to her size!</desc>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Science Fiction</category>
@@ -132375,7 +132375,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260602213000 -0400" stop="20260602220000 -0400" channel="tvguide.9200006386.klcs-dt2-los-angeles-calif-pbs-kids-24-7">
     <title lang="en">Ready Jet Go!</title>
     <sub-title lang="en">I Feel the Earth Move; Zerk Visits Earth</sub-title>
-    <desc lang="en">When an earthquake strikes Boxwood Terrace, Celery takes the kids into space to study the Earth's plates and fault lines from above; when Jet's overactive cousin Zerk visits Earth, the kids show him a...</desc>
+    <desc lang="en">When Jet finds out that the entire Earth doesn't have the same season at the same time, he's amazed. Then, when Mindy feels bad that she's the smallest kid in the group, Jet gets the idea to shrink the rest of them down to her size!</desc>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Science Fiction</category>
@@ -153015,7 +153015,7 @@ Moe, Larry and Curly are sent out into the world to try to save the orphanage wh
   <programme start="20260603020000 -0400" stop="20260603030000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 109</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -173172,7 +173172,7 @@ At the police academy they trained together. Now they’re on the job together. 
   <programme start="20260603060000 -0400" stop="20260603070000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 109</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -190282,7 +190282,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   </programme>
   <programme start="20260603090000 -0400" stop="20260603100000 -0400" channel="tvguide.9200018167.kdoc-dt-anaheim-calif-tct">
     <title lang="en">The 700 Club</title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -192818,7 +192818,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603093000 -0400" stop="20260603100000 -0400" channel="tvguide.9200006386.klcs-dt2-los-angeles-calif-pbs-kids-24-7">
     <title lang="en">Ready Jet Go!</title>
     <sub-title lang="en">Endless Summer; Jet Shrinks the Kids</sub-title>
-    <desc lang="en">When Jet finds out that the entire Earth doesn't experience the same season at the same time, he flies across the world with Sydney and Sean; when Mindy feels bad about being the smallest kid in the g...</desc>
+    <desc lang="en">When Jet finds out that the entire Earth doesn't have the same season at the same time, he's amazed. Then, when Mindy feels bad that she's the smallest kid in the group, Jet gets the idea to shrink the rest of them down to her size!</desc>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Science Fiction</category>
@@ -204515,7 +204515,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603120000 -0400" stop="20260603130000 -0400" channel="tvguide.9200002605.freeform-hd-west">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 110</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -206734,7 +206734,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603120000 -0400" stop="20260603130000 -0400" channel="tvguide.9233011218.kcop-dt-los-angeles-calif-mynet">
     <title lang="en">The 700 Club</title>
     <sub-title lang="en">Season 60 Episode 110</sub-title>
-    <desc lang="en">Host and Reverend Pat Robertson joins a panel of guests for a discussion of religious commentary on news events, featured stories, contemporary music, interviews, testamonies, politics, the work of Ch...</desc>
+    <desc lang="en">A long-running American talk show with additional news coverage. It was launched in 1966 by Pat Robertson's television station WYAH, and named after the 700 people who initially supported an annual fund-raising telethon which ensured the station's survival. The first permanent host of the program was the televangelist Jim Bakker, with his then-wife Tammy Faye Bakker as an eventual co-host. After the Bakkers departed the show in 1972, Robertson himself served as the main host. With the exception of a small hiatus in the late 1980s, Robertson continued hosting the show until 2021. The show's prominent co-hosts over the years have included (in chronological order) the evangelist Ben Kinchlow, the former foreign correspondent Danuta Rylko Soderman, the Scottish singer Sheila Walsh, the actress Susan Howard, and the beauty queen Lisa Ryan (former Miss California ).</desc>
     <category lang="en">News</category>
     <category lang="en">Talk &amp; Interview</category>
     <category lang="en">Talk-Show</category>
@@ -210617,7 +210617,7 @@ forest. The magical adventures and on-goings in the village feature a large cast
   <programme start="20260603130000 -0400" stop="20260603133000 -0400" channel="tvguide.9200015852.kpom-cd-ontario-calif-catchy-comedy">
     <title lang="en">The Dick Van Dyke Show</title>
     <sub-title lang="en">Odd But True</sub-title>
-    <desc lang="en">Ritchie and Freddie use a marker to connect the freckles on Robs back while he is asleep and it results in an interesting picture appearing on his back; some feel that Rob should make the image public...</desc>
+    <desc lang="en">Rob and Laura attend the reading of the will left by Rob's elderly Uncle Hezekiah. After some fairly generous financial bequests are given to Rob's relatives, they are ushered out of the room, and Rob and Laura are shown a short film of Uncle Hezekiah informing Rob that he's left him his old roll-top desk; Hezekiah then sings him a chorus of "Me and My Shadow," which is supposed to be a clue to a "treasure" Hezekiah claims is hidden in the desk.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">4.7.</episode-num>
