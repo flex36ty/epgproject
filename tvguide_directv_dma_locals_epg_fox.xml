@@ -108,17 +108,17 @@
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003497_light.png" />
   </channel>
-  <channel id="tvguide.9200004410.wwny-dt2-carthage-n-y-fox">
-    <display-name>WWNY-DT2 Carthage, N.Y. (FOX)</display-name>
-    <display-name>WWNY-DT2</display-name>
-    <display-name>5</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004410_light.png" />
-  </channel>
   <channel id="tvguide.9200008822.wttg-dt-washington-d-c-fox">
     <display-name>WTTG-DT Washington, D.C. (FOX)</display-name>
     <display-name>WTTG-DT</display-name>
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008822_light.png" />
+  </channel>
+  <channel id="tvguide.9200004410.wwny-dt2-carthage-n-y-fox">
+    <display-name>WWNY-DT2 Carthage, N.Y. (FOX)</display-name>
+    <display-name>WWNY-DT2</display-name>
+    <display-name>5</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004410_light.png" />
   </channel>
   <channel id="tvguide.9200017981.wbrc-dt-birmingham-ala-fox">
     <display-name>WBRC-DT Birmingham, Ala. (FOX)</display-name>
@@ -300,17 +300,17 @@
     <display-name>12</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200013014_light.png" />
   </channel>
-  <channel id="tvguide.9233013195.kptv-dt-portland-ore-fox">
-    <display-name>KPTV-DT Portland, Ore. (FOX)</display-name>
-    <display-name>KPTV-DT</display-name>
-    <display-name>12</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013195_light.png" />
-  </channel>
   <channel id="tvguide.9200002776.wgem-dt3-quincy-ill-fox">
     <display-name>WGEM-DT3 Quincy, Ill. (FOX)</display-name>
     <display-name>WGEM-DT3</display-name>
     <display-name>12</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002776_light.png" />
+  </channel>
+  <channel id="tvguide.9233013195.kptv-dt-portland-ore-fox">
+    <display-name>KPTV-DT Portland, Ore. (FOX)</display-name>
+    <display-name>KPTV-DT</display-name>
+    <display-name>12</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013195_light.png" />
   </channel>
   <channel id="tvguide.9233009804.wagm-dt2-presque-isle-maine-fox">
     <display-name>WAGM-DT2 Presque Isle, Maine (FOX)</display-name>
@@ -342,11 +342,11 @@
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200007209_light.png" />
   </channel>
-  <channel id="tvguide.9200000084.kstu-dt-salt-lake-city-utah-fox">
-    <display-name>KSTU-DT Salt Lake City, Utah (FOX)</display-name>
-    <display-name>KSTU-DT</display-name>
+  <channel id="tvguide.9200011465.wtvt-dt-tampa-fla-fox">
+    <display-name>WTVT-DT Tampa, Fla. (FOX)</display-name>
+    <display-name>WTVT-DT</display-name>
     <display-name>13</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000084_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011465_light.png" />
   </channel>
   <channel id="tvguide.9200014384.kxii-dt3-sherman-texas-fox">
     <display-name>KXII-DT3 Sherman, Texas (FOX)</display-name>
@@ -354,11 +354,11 @@
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200014384_light.png" />
   </channel>
-  <channel id="tvguide.9200011465.wtvt-dt-tampa-fla-fox">
-    <display-name>WTVT-DT Tampa, Fla. (FOX)</display-name>
-    <display-name>WTVT-DT</display-name>
+  <channel id="tvguide.9200000084.kstu-dt-salt-lake-city-utah-fox">
+    <display-name>KSTU-DT Salt Lake City, Utah (FOX)</display-name>
+    <display-name>KSTU-DT</display-name>
     <display-name>13</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011465_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000084_light.png" />
   </channel>
   <channel id="tvguide.9233011294.kfox-dt-el-paso-texas-fox">
     <display-name>KFOX-DT El Paso, Texas (FOX)</display-name>
@@ -678,17 +678,17 @@
     <display-name>29</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011357_light.png" />
   </channel>
-  <channel id="tvguide.9200000225.kvhp-dt-lake-charles-la-fox">
-    <display-name>KVHP-DT Lake Charles, La. (FOX)</display-name>
-    <display-name>KVHP-DT</display-name>
-    <display-name>29</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000225_light.png" />
-  </channel>
   <channel id="tvguide.9233013433.wftc-dt2-minneapolis-minn-fox9">
     <display-name>WFTC-DT2 Minneapolis, Minn. (FOX9+)</display-name>
     <display-name>WFTC-DT2</display-name>
     <display-name>29</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013433_light.png" />
+  </channel>
+  <channel id="tvguide.9200000225.kvhp-dt-lake-charles-la-fox">
+    <display-name>KVHP-DT Lake Charles, La. (FOX)</display-name>
+    <display-name>KVHP-DT</display-name>
+    <display-name>29</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000225_light.png" />
   </channel>
   <channel id="tvguide.9233009118.wtxf-dt-philadelphia-pa-fox">
     <display-name>WTXF-DT Philadelphia, Pa. (FOX)</display-name>
@@ -888,17 +888,17 @@
     <display-name>43</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070483_light.png" />
   </channel>
+  <channel id="tvguide.9233003529.wvbt-dt-virginia-beach-va-fox">
+    <display-name>WVBT-DT Virginia Beach, Va. (FOX)</display-name>
+    <display-name>WVBT-DT</display-name>
+    <display-name>43</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003529_light.png" />
+  </channel>
   <channel id="tvguide.9266070425.wfxb-dt-myrtle-beach-s-c-fox">
     <display-name>WFXB-DT Myrtle Beach, S.C. (FOX)</display-name>
     <display-name>WFXB-DT</display-name>
     <display-name>43</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070425_light.png" />
-  </channel>
-  <channel id="tvguide.9233003529.wvbt-dt-virginia-beach-va-fox">
-    <display-name>WVBT-DT Virginia Beach, Va. (FOX)</display-name>
-    <display-name>WVBT</display-name>
-    <display-name>43</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003529_light.png" />
   </channel>
   <channel id="tvguide.9200011619.wyzz-dt-bloomington-ill-fox">
     <display-name>WYZZ-DT Bloomington, Ill. (FOX)</display-name>
