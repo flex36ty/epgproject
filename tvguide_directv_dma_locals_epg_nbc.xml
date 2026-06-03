@@ -6,17 +6,17 @@
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200015981_light.png" />
   </channel>
-  <channel id="tvguide.9266027063.wtnx-ld-nashville-tenn-telemundo">
-    <display-name>WTNX-LD Nashville, Tenn. (Telemundo)</display-name>
-    <display-name>WTNX-LD</display-name>
-    <display-name>2</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266027063_light.png" />
-  </channel>
   <channel id="tvguide.9233015179.wesh-dt-daytona-beach-fla-nbc">
     <display-name>WESH-DT Daytona Beach, Fla. (NBC)</display-name>
     <display-name>WESH-DT</display-name>
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015179_light.png" />
+  </channel>
+  <channel id="tvguide.9266027063.wtnx-ld-nashville-tenn-telemundo">
+    <display-name>WTNX-LD Nashville, Tenn. (Telemundo)</display-name>
+    <display-name>WTNX-LD</display-name>
+    <display-name>2</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266027063_light.png" />
   </channel>
   <channel id="tvguide.9200014315.wdtn-dt-dayton-ohio-nbc">
     <display-name>WDTN-DT Dayton, Ohio (NBC)</display-name>
@@ -24,17 +24,17 @@
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200014315_light.png" />
   </channel>
-  <channel id="tvguide.9200019859.wlbz-dt-bangor-maine-nbc">
-    <display-name>WLBZ-DT Bangor, Maine (NBC)</display-name>
-    <display-name>WLBZ-DT</display-name>
-    <display-name>2</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019859_light.png" />
-  </channel>
   <channel id="tvguide.9200002393.ktuu-dt-anchorage-alaska-nbc">
     <display-name>KTUU-DT Anchorage, Alaska (NBC)</display-name>
     <display-name>KTUU-DT</display-name>
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002393_light.png" />
+  </channel>
+  <channel id="tvguide.9200019859.wlbz-dt-bangor-maine-nbc">
+    <display-name>WLBZ-DT Bangor, Maine (NBC)</display-name>
+    <display-name>WLBZ-DT</display-name>
+    <display-name>2</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019859_light.png" />
   </channel>
   <channel id="tvguide.9200008814.wgrz-dt-buffalo-n-y-nbc">
     <display-name>WGRZ-DT Buffalo, N.Y. (NBC)</display-name>
@@ -48,29 +48,29 @@
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001757_light.png" />
   </channel>
-  <channel id="tvguide.9200008806.kjrh-dt-tulsa-okla-nbc">
-    <display-name>KJRH-DT Tulsa, Okla. (NBC)</display-name>
-    <display-name>KJRH-DT</display-name>
-    <display-name>2</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008806_light.png" />
-  </channel>
   <channel id="tvguide.9200009239.wktv-dt-utica-n-y-nbc">
     <display-name>WKTV-DT Utica, N.Y. (NBC)</display-name>
     <display-name>WKTV-DT</display-name>
     <display-name>2</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009239_light.png" />
   </channel>
-  <channel id="tvguide.9200000093.wkyc-dt-cleveland-ohio-nbc">
-    <display-name>WKYC-DT Cleveland, Ohio (NBC)</display-name>
-    <display-name>WKYC-DT</display-name>
-    <display-name>3</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000093_light.png" />
+  <channel id="tvguide.9200008806.kjrh-dt-tulsa-okla-nbc">
+    <display-name>KJRH-DT Tulsa, Okla. (NBC)</display-name>
+    <display-name>KJRH-DT</display-name>
+    <display-name>2</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008806_light.png" />
   </channel>
   <channel id="tvguide.9233011229.wrcb-dt-chattanooga-tenn-nbc">
     <display-name>WRCB-DT Chattanooga, Tenn. (NBC)</display-name>
     <display-name>WRCB-DT</display-name>
     <display-name>3</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011229_light.png" />
+  </channel>
+  <channel id="tvguide.9200000093.wkyc-dt-cleveland-ohio-nbc">
+    <display-name>WKYC-DT Cleveland, Ohio (NBC)</display-name>
+    <display-name>WKYC-DT</display-name>
+    <display-name>3</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000093_light.png" />
   </channel>
   <channel id="tvguide.9200019955.wlbt-dt-jackson-miss-nbc">
     <display-name>WLBT-DT Jackson, Miss. (NBC)</display-name>
@@ -294,17 +294,17 @@
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002511_light.png" />
   </channel>
-  <channel id="tvguide.9200011495.komu-dt-columbia-mo-nbc">
-    <display-name>KOMU-DT Columbia, Mo. (NBC)</display-name>
-    <display-name>KOMU-DT</display-name>
-    <display-name>5</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011495_light.png" />
-  </channel>
   <channel id="tvguide.9200006540.wtva-dt-tupelo-miss-nbc">
     <display-name>WTVA-DT Tupelo, Miss. (NBC)</display-name>
     <display-name>WTVA-DT</display-name>
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006540_light.png" />
+  </channel>
+  <channel id="tvguide.9200011495.komu-dt-columbia-mo-nbc">
+    <display-name>KOMU-DT Columbia, Mo. (NBC)</display-name>
+    <display-name>KOMU-DT</display-name>
+    <display-name>5</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011495_light.png" />
   </channel>
   <channel id="tvguide.9200011466.wlwt-dt-cincinnati-ohio-nbc">
     <display-name>WLWT-DT Cincinnati, Ohio (NBC)</display-name>
@@ -378,12 +378,6 @@
     <display-name>6</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016104_light.png" />
   </channel>
-  <channel id="tvguide.9200018782.wnbj-ld-jackson-tenn-nbc">
-    <display-name>WNBJ-LD Jackson, Tenn. (NBC)</display-name>
-    <display-name>WNBJ-LD</display-name>
-    <display-name>6</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200018782_light.png" />
-  </channel>
   <channel id="tvguide.9200020009.kpvi-dt-pocatello-idaho-nbc">
     <display-name>KPVI-DT Pocatello, Idaho (NBC)</display-name>
     <display-name>KPVI-DT</display-name>
@@ -396,17 +390,23 @@
     <display-name>6</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233009245_light.png" />
   </channel>
-  <channel id="tvguide.9233009238.wluc-dt-marquette-mich-nbc">
-    <display-name>WLUC-DT Marquette, Mich. (NBC)</display-name>
-    <display-name>WLUC</display-name>
+  <channel id="tvguide.9200018782.wnbj-ld-jackson-tenn-nbc">
+    <display-name>WNBJ-LD Jackson, Tenn. (NBC)</display-name>
+    <display-name>WNBJ-LD</display-name>
     <display-name>6</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233009238_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200018782_light.png" />
   </channel>
   <channel id="tvguide.9266070461.wowt-dt-omaha-neb-nbc">
     <display-name>WOWT-DT Omaha, Neb. (NBC)</display-name>
     <display-name>WOWT-DT</display-name>
     <display-name>6</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070461_light.png" />
+  </channel>
+  <channel id="tvguide.9233009238.wluc-dt-marquette-mich-nbc">
+    <display-name>WLUC-DT Marquette, Mich. (NBC)</display-name>
+    <display-name>WLUC</display-name>
+    <display-name>6</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233009238_light.png" />
   </channel>
   <channel id="tvguide.9200008820.wpsd-dt-paducah-ky-nbc">
     <display-name>WPSD-DT Paducah, Ky. (NBC)</display-name>
@@ -480,17 +480,17 @@
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233009278_light.png" />
   </channel>
-  <channel id="tvguide.9233008039.kplc-dt-lake-charles-la-nbc">
-    <display-name>KPLC-DT Lake Charles, La. (NBC)</display-name>
-    <display-name>KPLC-DT</display-name>
-    <display-name>7</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233008039_light.png" />
-  </channel>
   <channel id="tvguide.9233003387.kmnf-ld-mankato-minn-nbc">
     <display-name>KMNF-LD Mankato, Minn. (NBC)</display-name>
     <display-name>KMNF-LD</display-name>
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003387_light.png" />
+  </channel>
+  <channel id="tvguide.9233008039.kplc-dt-lake-charles-la-nbc">
+    <display-name>KPLC-DT Lake Charles, La. (NBC)</display-name>
+    <display-name>KPLC-DT</display-name>
+    <display-name>7</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233008039_light.png" />
   </channel>
   <channel id="tvguide.9266070420.wpbn-dt-traverse-city-mich-nbc">
     <display-name>WPBN-DT Traverse City, Mich. (NBC)</display-name>
@@ -558,17 +558,17 @@
     <display-name>8</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015323_light.png" />
   </channel>
-  <channel id="tvguide.9200011709.ktsm-dt-el-paso-texas-nbc">
-    <display-name>KTSM-DT El Paso, Texas (NBC)</display-name>
-    <display-name>KTSM-DT</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011709_light.png" />
-  </channel>
   <channel id="tvguide.9200004628.wnbw-dt-gainesville-fla-roar">
     <display-name>WNBW-DT Gainesville, Fla. (ROAR)</display-name>
     <display-name>WNBW-DT</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004628_light.png" />
+  </channel>
+  <channel id="tvguide.9200011709.ktsm-dt-el-paso-texas-nbc">
+    <display-name>KTSM-DT El Paso, Texas (NBC)</display-name>
+    <display-name>KTSM-DT</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011709_light.png" />
   </channel>
   <channel id="tvguide.9200002416.kwes-dt-odessa-texas-nbc">
     <display-name>KWES-DT Odessa, Texas (NBC)</display-name>
@@ -630,29 +630,29 @@
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002104_light.png" />
   </channel>
-  <channel id="tvguide.9200002248.kwcm-dt-appleton-minn-pbs">
-    <display-name>KWCM-DT Appleton, Minn. (PBS)</display-name>
-    <display-name>KWCM-DT</display-name>
-    <display-name>10</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002248_light.png" />
-  </channel>
   <channel id="tvguide.9200011644.wavy-dt-portsmouth-va-nbc">
     <display-name>WAVY-DT Portsmouth, Va. (NBC)</display-name>
     <display-name>WAVY</display-name>
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011644_light.png" />
   </channel>
-  <channel id="tvguide.9233003472.wcau-dt-philadelphia-pa-nbc">
-    <display-name>WCAU-DT Philadelphia, Pa. (NBC)</display-name>
-    <display-name>WCAU-DT</display-name>
+  <channel id="tvguide.9200002248.kwcm-dt-appleton-minn-pbs">
+    <display-name>KWCM-DT Appleton, Minn. (PBS)</display-name>
+    <display-name>KWCM-DT</display-name>
     <display-name>10</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003472_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002248_light.png" />
   </channel>
   <channel id="tvguide.9200004395.wjar-dt-providence-r-i-nbc">
     <display-name>WJAR-DT Providence, R.I. (NBC)</display-name>
     <display-name>WJAR-DT</display-name>
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004395_light.png" />
+  </channel>
+  <channel id="tvguide.9233003472.wcau-dt-philadelphia-pa-nbc">
+    <display-name>WCAU-DT Philadelphia, Pa. (NBC)</display-name>
+    <display-name>WCAU-DT</display-name>
+    <display-name>10</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003472_light.png" />
   </channel>
   <channel id="tvguide.9200000090.wgem-dt-quincy-ill-nbc">
     <display-name>WGEM-DT Quincy, Ill. (NBC)</display-name>
@@ -666,17 +666,17 @@
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016026_light.png" />
   </channel>
-  <channel id="tvguide.9233005521.whec-dt-rochester-n-y-nbc">
-    <display-name>WHEC-DT Rochester, N.Y. (NBC)</display-name>
-    <display-name>WHEC-DT</display-name>
-    <display-name>10</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005521_light.png" />
-  </channel>
   <channel id="tvguide.9266070456.kttc-dt-rochester-minn-nbc">
     <display-name>KTTC-DT Rochester, Minn. (NBC)</display-name>
     <display-name>KTTC-DT</display-name>
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070456_light.png" />
+  </channel>
+  <channel id="tvguide.9233005521.whec-dt-rochester-n-y-nbc">
+    <display-name>WHEC-DT Rochester, N.Y. (NBC)</display-name>
+    <display-name>WHEC-DT</display-name>
+    <display-name>10</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005521_light.png" />
   </channel>
   <channel id="tvguide.9200000202.kten-dt-ada-okla-nbc">
     <display-name>KTEN-DT Ada, Okla. (NBC)</display-name>
@@ -1002,17 +1002,17 @@
     <display-name>25</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002334_light.png" />
   </channel>
-  <channel id="tvguide.9266070044.wagt-cd-augusta-ga-nbc">
-    <display-name>WAGT-CD Augusta, Ga. (NBC)</display-name>
-    <display-name>WAGT-CD</display-name>
-    <display-name>26</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070044_light.png" />
-  </channel>
   <channel id="tvguide.9200000851.wxxv-dt2-gulfport-miss-nbc">
     <display-name>WXXV-DT2 Gulfport, Miss. (NBC)</display-name>
     <display-name>WXXV-DT2</display-name>
     <display-name>26</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000851_light.png" />
+  </channel>
+  <channel id="tvguide.9266070044.wagt-cd-augusta-ga-nbc">
+    <display-name>WAGT-CD Augusta, Ga. (NBC)</display-name>
+    <display-name>WAGT-CD</display-name>
+    <display-name>26</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9266070044_light.png" />
   </channel>
   <channel id="tvguide.9233000069.wbre-dt-wilkes-barre-pa-nbc">
     <display-name>WBRE-DT Wilkes-Barre, Pa. (NBC)</display-name>
@@ -2593,13 +2593,6 @@
     <desc lang="en">The Morning Delta News Team provides a first in-depth look at overnight local, regional, statewide and national news events, as well as up-to-the-minute business and financial news, sports reports, up...</desc>
     <date>2016</date>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000039315/web</url>
-  </programme>
-  <programme start="20260603071300 -0400" stop="20260603074300 -0400" channel="tvguide.9200000047.khnl-dt-honolulu-hawaii-nbc">
-    <title lang="en">Hawaii News NOW at 10:00</title>
-    <sub-title lang="en">Hawaii News NOW at 10:00</sub-title>
-    <desc lang="en">Breaking news, major stories of the day and First Alert Weather get you informed and ready for tomorrow.  The Hawaii News Now team delivers a fast-paced newscast at 10p.</desc>
-    <date>2009</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000021637/web</url>
   </programme>
   <programme start="20260603073000 -0400" stop="20260603080000 -0400" channel="tvguide.9200000077.kcra-dt-sacramento-calif-nbc">
     <title lang="en">KCRA 3 News at 4:30am</title>
@@ -183804,5 +183797,17 @@
       <value>TV- G</value>
     </rating>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001902462/web</url>
+  </programme>
+  <programme start="20260606074300 -0400" stop="20260606081300 -0400" channel="tvguide.9200000047.khnl-dt-honolulu-hawaii-nbc">
+    <title lang="en">InvestigateTV+</title>
+    <sub-title lang="en">Season 3 Episode 50</sub-title>
+    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
+    <category lang="en">Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2.49.</episode-num>
+    <episode-num system="onscreen">S03E50</episode-num>
+    <date>2025</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001506915/web</url>
   </programme>
 </tv>
