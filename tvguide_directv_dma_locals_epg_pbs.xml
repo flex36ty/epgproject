@@ -318,17 +318,17 @@
     <display-name>11</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015433_light.png" />
   </channel>
-  <channel id="tvguide.9200008890.wljt-dt-lexington-tenn-pbs">
-    <display-name>WLJT-DT Lexington, Tenn. (PBS)</display-name>
-    <display-name>WLJT-DT</display-name>
-    <display-name>11</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008890_light.png" />
-  </channel>
   <channel id="tvguide.9233005656.khet-dt-honolulu-hawaii-pbs">
     <display-name>KHET-DT Honolulu, Hawaii (PBS)</display-name>
     <display-name>KHET-DT</display-name>
     <display-name>11</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005656_light.png" />
+  </channel>
+  <channel id="tvguide.9200008890.wljt-dt-lexington-tenn-pbs">
+    <display-name>WLJT-DT Lexington, Tenn. (PBS)</display-name>
+    <display-name>WLJT-DT</display-name>
+    <display-name>11</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008890_light.png" />
   </channel>
   <channel id="tvguide.9200004378.kufm-dt-missoula-mont-pbs">
     <display-name>KUFM-DT Missoula, Mont. (PBS)</display-name>
@@ -414,12 +414,6 @@
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000179_light.png" />
   </channel>
-  <channel id="tvguide.9233003845.wnmu-dt-marquette-mich-pbs">
-    <display-name>WNMU-DT Marquette, Mich. (PBS)</display-name>
-    <display-name>WNMU</display-name>
-    <display-name>13</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003845_light.png" />
-  </channel>
   <channel id="tvguide.9200014330.kltm-dt-monroe-la-pbs">
     <display-name>KLTM-DT Monroe, La. (PBS)</display-name>
     <display-name>KLTM-DT</display-name>
@@ -431,6 +425,12 @@
     <display-name>WNET-DT</display-name>
     <display-name>13</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000048_light.png" />
+  </channel>
+  <channel id="tvguide.9233003845.wnmu-dt-marquette-mich-pbs">
+    <display-name>WNMU-DT Marquette, Mich. (PBS)</display-name>
+    <display-name>WNMU</display-name>
+    <display-name>13</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003845_light.png" />
   </channel>
   <channel id="tvguide.9233015224.wqed-dt-pittsburg-pa-pbs">
     <display-name>WQED-DT Pittsburg, Pa. (PBS)</display-name>
@@ -1092,17 +1092,17 @@
     <display-name>58</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008823_light.png" />
   </channel>
-  <channel id="tvguide.9200005566.k18hd-ld-bakersfield-calif-pbs">
-    <display-name>K18HD-LD Bakersfield, Calif. (PBS)</display-name>
-    <display-name>K18HD-LD</display-name>
-    <display-name>65</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200005566_light.png" />
-  </channel>
   <channel id="tvguide.9200002307.wmah-dt-biloxi-miss-pbs">
     <display-name>WMAH-DT Biloxi, Miss. (PBS)</display-name>
     <display-name>WMAH-DT</display-name>
     <display-name>65</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002307_light.png" />
+  </channel>
+  <channel id="tvguide.9200005566.k18hd-ld-bakersfield-calif-pbs">
+    <display-name>K18HD-LD Bakersfield, Calif. (PBS)</display-name>
+    <display-name>K18HD-LD</display-name>
+    <display-name>65</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200005566_light.png" />
   </channel>
   <channel id="tvguide.9233006827.wbiq-dt-birmingham-ala-pbs">
     <display-name>WBIQ-DT Birmingham, Ala. (PBS)</display-name>
@@ -1110,29 +1110,29 @@
     <display-name>65</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233006827_light.png" />
   </channel>
-  <channel id="tvguide.9233011388.koce-dt-huntington-beach-calif-pbs">
-    <display-name>KOCE-DT Huntington Beach, Calif. (PBS)</display-name>
-    <display-name>KOCE-DT</display-name>
-    <display-name>65</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011388_light.png" />
-  </channel>
   <channel id="tvguide.9200006216.kuht-dt-houston-texas-pbs">
     <display-name>KUHT-DT Houston, Texas (PBS)</display-name>
     <display-name>KUHT-DT</display-name>
     <display-name>65</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006216_light.png" />
   </channel>
-  <channel id="tvguide.9233001717.kedt-dt-corpus-christi-texas-pbs">
-    <display-name>KEDT-DT Corpus Christi Texas (PBS)</display-name>
-    <display-name>KEDT-DT</display-name>
+  <channel id="tvguide.9233011388.koce-dt-huntington-beach-calif-pbs">
+    <display-name>KOCE-DT Huntington Beach, Calif. (PBS)</display-name>
+    <display-name>KOCE-DT</display-name>
     <display-name>65</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001717_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011388_light.png" />
   </channel>
   <channel id="tvguide.9233005511.wosu-dt-columbus-ohio-pbs">
     <display-name>WOSU-DT Columbus, Ohio (PBS)</display-name>
     <display-name>WOSU-DT</display-name>
     <display-name>65</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005511_light.png" />
+  </channel>
+  <channel id="tvguide.9233001717.kedt-dt-corpus-christi-texas-pbs">
+    <display-name>KEDT-DT Corpus Christi Texas (PBS)</display-name>
+    <display-name>KEDT-DT</display-name>
+    <display-name>65</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001717_light.png" />
   </channel>
   <channel id="tvguide.9233005488.kera-dt-dallas-texas-pbs">
     <display-name>KERA-DT Dallas, Texas (PBS)</display-name>
