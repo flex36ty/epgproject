@@ -108,17 +108,17 @@
     <display-name>8</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009853_light.png" />
   </channel>
-  <channel id="tvguide.9233001454.kolo-dt3-reno-nev-cw-plus">
-    <display-name>KOLO-DT3 Reno, Nev. (CW Plus)</display-name>
-    <display-name>KOLO-DT3</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001454_light.png" />
-  </channel>
   <channel id="tvguide.9200009552.kfmb-dt2-san-diego-calif-mynet">
     <display-name>KFMB-DT2 San Diego, Calif. (MyNet)</display-name>
     <display-name>KFMB-DT2</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009552_light.png" />
+  </channel>
+  <channel id="tvguide.9233001454.kolo-dt3-reno-nev-cw-plus">
+    <display-name>KOLO-DT3 Reno, Nev. (CW Plus)</display-name>
+    <display-name>KOLO-DT3</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001454_light.png" />
   </channel>
   <channel id="tvguide.9233014317.keca-ld-eureka-calif-cw-plus">
     <display-name>KECA-LD Eureka, Calif. (CW Plus)</display-name>
@@ -270,17 +270,17 @@
     <display-name>14</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011330_light.png" />
   </channel>
-  <channel id="tvguide.9200017881.kten-dt2-ada-okla-cw-plus">
-    <display-name>KTEN-DT2 Ada, Okla. (CW Plus)</display-name>
-    <display-name>KTEN-DT2</display-name>
-    <display-name>14</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200017881_light.png" />
-  </channel>
   <channel id="tvguide.9200009381.wstm-dt2-syracuse-n-y-cw">
     <display-name>WSTM-DT2 Syracuse, N.Y. (CW)</display-name>
     <display-name>WSTM-DT2</display-name>
     <display-name>14</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200009381_light.png" />
+  </channel>
+  <channel id="tvguide.9200017881.kten-dt2-ada-okla-cw-plus">
+    <display-name>KTEN-DT2 Ada, Okla. (CW Plus)</display-name>
+    <display-name>KTEN-DT2</display-name>
+    <display-name>14</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200017881_light.png" />
   </channel>
   <channel id="tvguide.9200018768.wfmj-dt2-youngstown-ohio-cw">
     <display-name>WFMJ-DT2 Youngstown, Ohio (CW)</display-name>
@@ -354,17 +354,17 @@
     <display-name>18</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016051_light.png" />
   </channel>
-  <channel id="tvguide.9233016098.wztv-dt2-nashville-tenn-cw">
-    <display-name>WZTV-DT2 Nashville, Tenn. (CW)</display-name>
-    <display-name>WZTV-DT2</display-name>
-    <display-name>18</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233016098_light.png" />
-  </channel>
   <channel id="tvguide.9233001643.wkcf-dt-clermont-fla-cw">
     <display-name>WKCF-DT Clermont, Fla. (CW)</display-name>
     <display-name>WKCF-DT</display-name>
     <display-name>18</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001643_light.png" />
+  </channel>
+  <channel id="tvguide.9233016098.wztv-dt2-nashville-tenn-cw">
+    <display-name>WZTV-DT2 Nashville, Tenn. (CW)</display-name>
+    <display-name>WZTV-DT2</display-name>
+    <display-name>18</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233016098_light.png" />
   </channel>
   <channel id="tvguide.9200008887.kttu-dt-tucson-ariz-cw-plus">
     <display-name>KTTU-DT Tucson, Ariz. (CW Plus)</display-name>
@@ -720,17 +720,17 @@
     <display-name>50</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233015204_light.png" />
   </channel>
-  <channel id="tvguide.9200011482.wwti-dt2-watertown-n-y-cw-plus">
-    <display-name>WWTI-DT2 Watertown, N.Y. (CW Plus)</display-name>
-    <display-name>WWTI-DT2</display-name>
-    <display-name>50</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011482_light.png" />
-  </channel>
   <channel id="tvguide.9200019941.wdcw-dt-washington-d-c-cw">
     <display-name>WDCW-DT Washington, D.C. (CW)</display-name>
     <display-name>WDCW-DT</display-name>
     <display-name>50</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019941_light.png" />
+  </channel>
+  <channel id="tvguide.9200011482.wwti-dt2-watertown-n-y-cw-plus">
+    <display-name>WWTI-DT2 Watertown, N.Y. (CW Plus)</display-name>
+    <display-name>WWTI-DT2</display-name>
+    <display-name>50</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011482_light.png" />
   </channel>
   <channel id="tvguide.9200006484.wpxt-dt-portland-maine-cw">
     <display-name>WPXT-DT Portland, Maine (CW)</display-name>
@@ -183739,5 +183739,11 @@
       <value>G</value>
     </rating>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000000004/web</url>
+  </programme>
+  <programme start="20260606074500 -0400" stop="20260606080000 -0400" channel="tvguide.9233001662.kscw-dt-wichita-kan-cw">
+    <title lang="en">Patterson Gives Back</title>
+    <sub-title lang="en">Patterson Gives Back</sub-title>
+    <date>2020</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000056966/web</url>
   </programme>
 </tv>
