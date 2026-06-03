@@ -96,17 +96,17 @@
     <display-name>3</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200017906_light.png" />
   </channel>
-  <channel id="tvguide.9233007988.wisc-dt-madison-wis-cbs">
-    <display-name>WISC-DT Madison, Wis. (CBS)</display-name>
-    <display-name>WISC-DT</display-name>
-    <display-name>3</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233007988_light.png" />
-  </channel>
   <channel id="tvguide.9233001671.wreg-dt-memphis-tenn-cbs">
     <display-name>WREG-DT Memphis, Tenn. (CBS)</display-name>
     <display-name>WREG-DT</display-name>
     <display-name>3</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233001671_light.png" />
+  </channel>
+  <channel id="tvguide.9233007988.wisc-dt-madison-wis-cbs">
+    <display-name>WISC-DT Madison, Wis. (CBS)</display-name>
+    <display-name>WISC-DT</display-name>
+    <display-name>3</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233007988_light.png" />
   </channel>
   <channel id="tvguide.9233005566.wcax-dt-burlington-vt-cbs">
     <display-name>WCAX-DT Burlington, Vt. (CBS)</display-name>
@@ -138,17 +138,17 @@
     <display-name>3</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002253_light.png" />
   </channel>
-  <channel id="tvguide.9233013887.kmtv-dt-omaha-neb-cbs">
-    <display-name>KMTV-DT Omaha, Neb. (CBS)</display-name>
-    <display-name>KMTV-DT</display-name>
-    <display-name>3</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013887_light.png" />
-  </channel>
   <channel id="tvguide.9200011511.wtkr-dt-norfolk-va-cbs">
     <display-name>WTKR-DT Norfolk, Va. (CBS)</display-name>
     <display-name>WTKR</display-name>
     <display-name>3</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011511_light.png" />
+  </channel>
+  <channel id="tvguide.9233013887.kmtv-dt-omaha-neb-cbs">
+    <display-name>KMTV-DT Omaha, Neb. (CBS)</display-name>
+    <display-name>KMTV-DT</display-name>
+    <display-name>3</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013887_light.png" />
   </channel>
   <channel id="tvguide.9233001618.kyw-dt-philadelphia-pa-cbs">
     <display-name>KYW-DT Philadelphia, Pa. (CBS)</display-name>
@@ -198,6 +198,12 @@
     <display-name>4</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005409_light.png" />
   </channel>
+  <channel id="tvguide.9200008811.wbz-dt-boston-mass-cbs">
+    <display-name>WBZ-DT Boston, Mass. (CBS)</display-name>
+    <display-name>WBZ-DT</display-name>
+    <display-name>4</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008811_light.png" />
+  </channel>
   <channel id="tvguide.9200000091.wivb-dt-buffalo-n-y-cbs">
     <display-name>WIVB-DT Buffalo, N.Y. (CBS)</display-name>
     <display-name>WIVB-DT</display-name>
@@ -210,23 +216,17 @@
     <display-name>4</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000235_light.png" />
   </channel>
-  <channel id="tvguide.9200008811.wbz-dt-boston-mass-cbs">
-    <display-name>WBZ-DT Boston, Mass. (CBS)</display-name>
-    <display-name>WBZ-DT</display-name>
+  <channel id="tvguide.9200006267.kktv-dt-colorado-springs-colo-cbs">
+    <display-name>KKTV-DT Colorado Springs, Colo. (CBS)</display-name>
+    <display-name>KKTV-DT</display-name>
     <display-name>4</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200008811_light.png" />
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006267_light.png" />
   </channel>
   <channel id="tvguide.9200000190.whbf-dt-rock-island-ill-cbs">
     <display-name>WHBF-DT Rock Island, Ill. (CBS)</display-name>
     <display-name>WHBF-DT</display-name>
     <display-name>4</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000190_light.png" />
-  </channel>
-  <channel id="tvguide.9200006267.kktv-dt-colorado-springs-colo-cbs">
-    <display-name>KKTV-DT Colorado Springs, Colo. (CBS)</display-name>
-    <display-name>KKTV-DT</display-name>
-    <display-name>4</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006267_light.png" />
   </channel>
   <channel id="tvguide.9200008881.wtvy-dt-dothan-ala-cbs">
     <display-name>WTVY-DT Dothan, Ala. (CBS)</display-name>
@@ -306,17 +306,17 @@
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233012853_light.png" />
   </channel>
-  <channel id="tvguide.9233003517.wabi-dt-bangor-maine-cbs">
-    <display-name>WABI-DT Bangor, Maine (CBS)</display-name>
-    <display-name>WABI-DT</display-name>
-    <display-name>5</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003517_light.png" />
-  </channel>
   <channel id="tvguide.9233005730.kyes-ld-anchorage-alaska-cbs">
     <display-name>KYES-LD Anchorage, Alaska (CBS)</display-name>
     <display-name>KYES-LD</display-name>
     <display-name>5</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233005730_light.png" />
+  </channel>
+  <channel id="tvguide.9233003517.wabi-dt-bangor-maine-cbs">
+    <display-name>WABI-DT Bangor, Maine (CBS)</display-name>
+    <display-name>WABI-DT</display-name>
+    <display-name>5</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003517_light.png" />
   </channel>
   <channel id="tvguide.9233013352.khsl-dt-chico-calif-cbs">
     <display-name>KHSL-DT Chico, Calif. (CBS)</display-name>
@@ -450,17 +450,17 @@
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019855_light.png" />
   </channel>
-  <channel id="tvguide.9200002335.wsaw-dt-wausau-wis-cbs">
-    <display-name>WSAW-DT Wausau, Wis. (CBS)</display-name>
-    <display-name>WSAW-DT</display-name>
-    <display-name>7</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002335_light.png" />
-  </channel>
   <channel id="tvguide.9233013298.wtrf-dt-wheeling-w-va-cbs">
     <display-name>WTRF-DT Wheeling, W.Va. (CBS)</display-name>
     <display-name>WTRF-DT</display-name>
     <display-name>7</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233013298_light.png" />
+  </channel>
+  <channel id="tvguide.9200002335.wsaw-dt-wausau-wis-cbs">
+    <display-name>WSAW-DT Wausau, Wis. (CBS)</display-name>
+    <display-name>WSAW-DT</display-name>
+    <display-name>7</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002335_light.png" />
   </channel>
   <channel id="tvguide.9233008010.wvlt-dt-knoxville-tenn-cbs">
     <display-name>WVLT-DT Knoxville, Tenn. (CBS)</display-name>
@@ -498,12 +498,6 @@
     <display-name>8</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002329_light.png" />
   </channel>
-  <channel id="tvguide.9200011493.klas-dt-las-vegas-nev-cbs">
-    <display-name>KLAS-DT Las Vegas, Nev. (CBS)</display-name>
-    <display-name>KLAS-DT</display-name>
-    <display-name>8</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011493_light.png" />
-  </channel>
   <channel id="tvguide.9200016088.kpax-dt-missoula-mont-cbs">
     <display-name>KPAX-DT Missoula, Mont. (CBS)</display-name>
     <display-name>KPAX-DT</display-name>
@@ -515,6 +509,12 @@
     <display-name>KNOE-DT</display-name>
     <display-name>8</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200014241_light.png" />
+  </channel>
+  <channel id="tvguide.9200011493.klas-dt-las-vegas-nev-cbs">
+    <display-name>KLAS-DT Las Vegas, Nev. (CBS)</display-name>
+    <display-name>KLAS-DT</display-name>
+    <display-name>8</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011493_light.png" />
   </channel>
   <channel id="tvguide.9233009720.ktvo-dt2-kirksville-mo-cbs">
     <display-name>KTVO-DT2 Kirksville, Mo. (CBS)</display-name>
@@ -564,29 +564,29 @@
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003522_light.png" />
   </channel>
-  <channel id="tvguide.9200006262.wwny-dt-carthage-n-y-cbs">
-    <display-name>WWNY-DT Carthage, N.Y. (CBS)</display-name>
-    <display-name>WWNY-DT</display-name>
-    <display-name>9</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006262_light.png" />
-  </channel>
   <channel id="tvguide.9233011207.wusa-dt-washington-d-c-cbs">
     <display-name>WUSA-DT Washington, D.C. (CBS)</display-name>
     <display-name>WUSA-DT</display-name>
     <display-name>9</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233011207_light.png" />
   </channel>
-  <channel id="tvguide.9200002361.kztv-dt-corpus-christi-texas-cbs">
-    <display-name>KZTV-DT Corpus Christi, Texas (CBS)</display-name>
-    <display-name>KZTV-DT</display-name>
-    <display-name>10</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002361_light.png" />
+  <channel id="tvguide.9200006262.wwny-dt-carthage-n-y-cbs">
+    <display-name>WWNY-DT Carthage, N.Y. (CBS)</display-name>
+    <display-name>WWNY-DT</display-name>
+    <display-name>9</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200006262_light.png" />
   </channel>
   <channel id="tvguide.9200011464.wbns-dt-columbus-ohio-cbs">
     <display-name>WBNS-DT Columbus, Ohio (CBS)</display-name>
     <display-name>WBNS-DT</display-name>
     <display-name>10</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011464_light.png" />
+  </channel>
+  <channel id="tvguide.9200002361.kztv-dt-corpus-christi-texas-cbs">
+    <display-name>KZTV-DT Corpus Christi, Texas (CBS)</display-name>
+    <display-name>KZTV-DT</display-name>
+    <display-name>10</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200002361_light.png" />
   </channel>
   <channel id="tvguide.9200008917.klfy-dt-lafayette-la-cbs">
     <display-name>KLFY-DT Lafayette, La. (CBS)</display-name>
@@ -672,17 +672,17 @@
     <display-name>11</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233003528_light.png" />
   </channel>
-  <channel id="tvguide.9200016005.kelo-dt-sioux-falls-s-d-cbs">
-    <display-name>KELO-DT Sioux Falls, S.D. (CBS)</display-name>
-    <display-name>KELO-DT</display-name>
-    <display-name>11</display-name>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016005_light.png" />
-  </channel>
   <channel id="tvguide.9233000025.wtoc-dt-savannah-ga-cbs">
     <display-name>WTOC-DT Savannah, Ga. (CBS)</display-name>
     <display-name>WTOC</display-name>
     <display-name>11</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9233000025_light.png" />
+  </channel>
+  <channel id="tvguide.9200016005.kelo-dt-sioux-falls-s-d-cbs">
+    <display-name>KELO-DT Sioux Falls, S.D. (CBS)</display-name>
+    <display-name>KELO-DT</display-name>
+    <display-name>11</display-name>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200016005_light.png" />
   </channel>
   <channel id="tvguide.9200000214.kmvt-dt-twin-falls-idaho-cbs">
     <display-name>KMVT-DT Twin Falls, Idaho (CBS)</display-name>
