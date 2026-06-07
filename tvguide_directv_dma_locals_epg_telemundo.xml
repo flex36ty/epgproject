@@ -5,25 +5,6 @@
     <display-name>TELMUN</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011927_light.png" />
   </channel>
-  <programme start="20260607003000 -0400" stop="20260607010000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">Violación o permisión</sub-title>
-    <desc lang="en">Mónica y Johandi estaban en una fiesta bebiendo y fumando marihuana, pero la noche terminó muy mal.</desc>
-    <date>2022</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001348500/web</url>
-  </programme>
-  <programme start="20260607010000 -0400" stop="20260607013000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
   <programme start="20260607013000 -0400" stop="20260607023000 -0400" channel="tvguide.9200011927.telemundo">
     <title lang="en">Acércate a Rocio</title>
     <sub-title lang="en">Soy la envidia de mi mamá</sub-title>
@@ -668,5 +649,22 @@
     <desc lang="en">El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.</desc>
     <date>2026</date>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002109610/web</url>
+  </programme>
+  <programme start="20260610013000 -0400" stop="20260610020000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Lucha por mi privacidad</sub-title>
+    <desc lang="en">Yuly quiere emanciparse de su mamá y que además corra con sus gastos, porque la espía, usa unos lentes que en realidad tienen una cámara secreta con la que graba todos sus movimientos.</desc>
+    <date>2024</date>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000848160/web</url>
+  </programme>
+  <programme start="20260610020000 -0400" stop="20260610030000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002109614/web</url>
   </programme>
 </tv>
