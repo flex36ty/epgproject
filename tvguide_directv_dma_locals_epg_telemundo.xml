@@ -5,45 +5,6 @@
     <display-name>TELMUN</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011927_light.png" />
   </channel>
-  <programme start="20260612020000 -0400" stop="20260612030000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Vida de Campeones</title>
-    <sub-title lang="en">Ronaldinho</sub-title>
-    <desc lang="en">Miguel Gurwitz explora las vidas, legados y reinvenciones de legendarias figuras del fútbol.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002134950/web</url>
-  </programme>
-  <programme start="20260612030000 -0400" stop="20260612033000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Todo el Mundial</title>
-    <sub-title lang="en">Todo el Mundial</sub-title>
-    <desc lang="en">Todo el Mundial es tu espacio post partido del Mundial 2026 con resultados, análisis, protagonistas y las noticias más importantes de cada jornada.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110128/web</url>
-  </programme>
-  <programme start="20260612033000 -0400" stop="20260612043000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">El Pelotazo</title>
-    <sub-title lang="en">Season 1 Episode 455</sub-title>
-    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002109607/web</url>
-  </programme>
-  <programme start="20260612043000 -0400" stop="20260612053000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Dateline NBC</title>
-    <desc lang="en">Los presentadores de noticias y corresponsales de NBC contribuyen a informes de investigación, noticias de último momento, perfiles de los principales protagonistas de las noticias que exploran evento...</desc>
-    <category lang="en">Documentary</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Crime</category>
-    <category lang="en">News</category>
-    <date>1992</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-8fab3e5adf7ed9654d487ce8c8e32ca0.jpg" />
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088299/web</url>
-  </programme>
-  <programme start="20260612053000 -0400" stop="20260612060000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo en la noche</title>
-    <sub-title lang="en">Noticias Telemundo en la noche</sub-title>
-    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
-    <date>2020</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092613/web</url>
-  </programme>
   <programme start="20260612060000 -0400" stop="20260612070000 -0400" channel="tvguide.9200011927.telemundo">
     <title lang="en">Despertando al gigante</title>
     <sub-title lang="en">Despertando al gigante</sub-title>
@@ -640,5 +601,62 @@
     <desc lang="en">Lo picante, sexy y controversial de La Casa de los Famosos, lo mejor del entretenimiento, presentaciones en vivo y las celebridades que formaron parte del reality más popular de la televisión.</desc>
     <date>2026</date>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002120605/web</url>
+  </programme>
+  <programme start="20260615023000 -0400" stop="20260615030000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Planeta Tierra</title>
+    <sub-title lang="en">Planeta Tierra</sub-title>
+    <desc lang="en">Una mirada a la flora, fauna y los ecosistemas que componen la naturaleza del lugar que los humanos llaman hogar, el planeta Tierra.</desc>
+    <date>2025</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001472768/web</url>
+  </programme>
+  <programme start="20260615030000 -0400" stop="20260615033000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">El Pelotazo</title>
+    <sub-title lang="en">Season 1 Episode 458</sub-title>
+    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002120600/web</url>
+  </programme>
+  <programme start="20260615033000 -0400" stop="20260615040000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Fin de semana</title>
+    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
+    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+    <date>2014</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
+  </programme>
+  <programme start="20260615040000 -0400" stop="20260615050000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Pica y se extiende</title>
+    <sub-title lang="en">Season 1 Episode 49</sub-title>
+    <desc lang="en">Lo picante, sexy y controversial de La Casa de los Famosos, lo mejor del entretenimiento, presentaciones en vivo y las celebridades que formaron parte del reality más popular de la televisión.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002120605/web</url>
+  </programme>
+  <programme start="20260615050000 -0400" stop="20260615053000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Programa pagado</title>
+    <sub-title lang="en">Programa pagado</sub-title>
+    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+    <rating>
+      <value>G</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
+  </programme>
+  <programme start="20260615053000 -0400" stop="20260615060000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Programa pagado</title>
+    <sub-title lang="en">Programa pagado</sub-title>
+    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+    <rating>
+      <value>G</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
+  </programme>
+  <programme start="20260615060000 -0400" stop="20260615070000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Dateline NBC</title>
+    <desc lang="en">Los presentadores de noticias y corresponsales de NBC contribuyen a informes de investigación, noticias de último momento, perfiles de los principales protagonistas de las noticias que exploran evento...</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">News</category>
+    <date>1992</date>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-8fab3e5adf7ed9654d487ce8c8e32ca0.jpg" />
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088299/web</url>
   </programme>
 </tv>
