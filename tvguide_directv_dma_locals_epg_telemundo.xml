@@ -5,198 +5,6 @@
     <display-name>TELMUN</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011927_light.png" />
   </channel>
-  <programme start="20260701013000 -0400" stop="20260701023000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Al Rojo Vivo: Edición Mundial</title>
-    <sub-title lang="en">Al Rojo Vivo: Edición Mundial</sub-title>
-    <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002152813/web</url>
-  </programme>
-  <programme start="20260701023000 -0400" stop="20260701030000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Planeta Tierra</title>
-    <sub-title lang="en">Planeta Tierra</sub-title>
-    <desc lang="en">Una mirada a la flora, fauna y los ecosistemas que componen la naturaleza del lugar que los humanos llaman hogar, el planeta Tierra.</desc>
-    <date>2025</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001472768/web</url>
-  </programme>
-  <programme start="20260701030000 -0400" stop="20260701040000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">El Pelotazo</title>
-    <sub-title lang="en">Season 1 Episode 474</sub-title>
-    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002152783/web</url>
-  </programme>
-  <programme start="20260701040000 -0400" stop="20260701050000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Al Rojo Vivo: Edición Mundial</title>
-    <sub-title lang="en">Al Rojo Vivo: Edición Mundial</sub-title>
-    <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002152813/web</url>
-  </programme>
-  <programme start="20260701050000 -0400" stop="20260701053000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Planeta Tierra</title>
-    <sub-title lang="en">Planeta Tierra</sub-title>
-    <desc lang="en">Una mirada a la flora, fauna y los ecosistemas que componen la naturaleza del lugar que los humanos llaman hogar, el planeta Tierra.</desc>
-    <date>2025</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001472768/web</url>
-  </programme>
-  <programme start="20260701053000 -0400" stop="20260701060000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo en la noche</title>
-    <sub-title lang="en">Noticias Telemundo en la noche</sub-title>
-    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
-    <date>2020</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092613/web</url>
-  </programme>
-  <programme start="20260701060000 -0400" stop="20260701070000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Dateline NBC</title>
-    <sub-title lang="en">El misterio del azul prusiano</sub-title>
-    <desc lang="en">Médicos y fuerzas del orden son llamados para esclarecer un crimen espeluznante.</desc>
-    <category lang="en">Documentary</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Crime</category>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">28.22.</episode-num>
-    <episode-num system="onscreen">S29E23</episode-num>
-    <date>2021</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-8fab3e5adf7ed9654d487ce8c8e32ca0.jpg" />
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002052842/web</url>
-  </programme>
-  <programme start="20260701070000 -0400" stop="20260701080000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo Ahora</title>
-    <sub-title lang="en">Noticias Telemundo Ahora</sub-title>
-    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
-    <date>2024</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001206507/web</url>
-  </programme>
-  <programme start="20260701080000 -0400" stop="20260701083000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Hoy Día Edición Mundial</title>
-    <sub-title lang="en">Part 1</sub-title>
-    <desc lang="en">Toda la información de la Copa Mundial de la FIFA 2026 y la cultura latina.</desc>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110181/web</url>
-  </programme>
-  <programme start="20260701083000 -0400" stop="20260701093000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Hoy Día Edición Mundial</title>
-    <sub-title lang="en">Part 2</sub-title>
-    <desc lang="en">Toda la información de la Copa Mundial de la FIFA 2026 y la cultura latina.</desc>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110182/web</url>
-  </programme>
-  <programme start="20260701093000 -0400" stop="20260701103000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Hoy Día Edición Mundial</title>
-    <sub-title lang="en">Part 3</sub-title>
-    <desc lang="en">Toda la información de la Copa Mundial de la FIFA 2026 y la cultura latina.</desc>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002120568/web</url>
-  </programme>
-  <programme start="20260701103000 -0400" stop="20260701110000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Hoy en el Mundial</title>
-    <sub-title lang="en">Hoy en el Mundial</sub-title>
-    <desc lang="en">Hoy en el Mundial, un espacio dedicado a celebrar la máxima cita del fútbol con todo lo que sucede dentro y fuera de la cancha.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110111/web</url>
-  </programme>
-  <programme start="20260701110000 -0400" stop="20260701113000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Vive el Mundial</title>
-    <sub-title lang="en">Vive el Mundial</sub-title>
-    <desc lang="en">La cuenta regresiva al primer partido de cada día está en Vive el Mundial. Desde los estudios y desde los estadios calentamos cada jornada.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110115/web</url>
-  </programme>
-  <programme start="20260701113000 -0400" stop="20260701140000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Copa Mundial de la FIFA 2026</title>
-    <sub-title lang="en">Copa Mundial de la FIFA 2026</sub-title>
-    <desc lang="en">Congo vs England desde Atlanta Stadium</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002180822/web</url>
-  </programme>
-  <programme start="20260701140000 -0400" stop="20260701143000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Pasión Mundial</title>
-    <sub-title lang="en">Pasión Mundial</sub-title>
-    <desc lang="en">Disfruta la celebración entre partidos que reúne lo mejor del juego recién terminado y lo que se espera del siguiente con las voces de los jugadores y segmentos cargados de acción.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110116/web</url>
-  </programme>
-  <programme start="20260701143000 -0400" stop="20260701150000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Enlace Mundial</title>
-    <sub-title lang="en">Enlace Mundial</sub-title>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
-  </programme>
-  <programme start="20260701150000 -0400" stop="20260701153000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Enlace Mundial</title>
-    <sub-title lang="en">Enlace Mundial</sub-title>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
-  </programme>
-  <programme start="20260701153000 -0400" stop="20260701180000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Copa Mundial de la FIFA 2026</title>
-    <sub-title lang="en">Copa Mundial de la FIFA 2026</sub-title>
-    <desc lang="en">Belgium vs Senegal desde Seattle Stadium</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002180823/web</url>
-  </programme>
-  <programme start="20260701180000 -0400" stop="20260701183000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Pasión Mundial</title>
-    <sub-title lang="en">Pasión Mundial</sub-title>
-    <desc lang="en">Disfruta la celebración entre partidos que reúne lo mejor del juego recién terminado y lo que se espera del siguiente con las voces de los jugadores y segmentos cargados de acción.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110116/web</url>
-  </programme>
-  <programme start="20260701183000 -0400" stop="20260701190000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Enlace Mundial</title>
-    <sub-title lang="en">Enlace Mundial</sub-title>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
-  </programme>
-  <programme start="20260701190000 -0400" stop="20260701193000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Enlace Mundial</title>
-    <sub-title lang="en">Enlace Mundial</sub-title>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
-  </programme>
-  <programme start="20260701193000 -0400" stop="20260701220000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Copa Mundial de la FIFA 2026</title>
-    <sub-title lang="en">Copa Mundial de la FIFA 2026</sub-title>
-    <desc lang="en">United States vs Bosnia-Herzegovina desde San Francisco Bay Area Stadium</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002173662/web</url>
-  </programme>
-  <programme start="20260701220000 -0400" stop="20260701230000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Todo el Mundial</title>
-    <sub-title lang="en">Todo el Mundial</sub-title>
-    <desc lang="en">Todo el Mundial es tu espacio post partido del Mundial 2026 con resultados, análisis, protagonistas y las noticias más importantes de cada jornada.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110128/web</url>
-  </programme>
-  <programme start="20260701230000 -0400" stop="20260701233000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">Cubanas ilegales</sub-title>
-    <desc lang="en">Yuliet y Yineth huyeron de Cuba, entraron por la frontera sin entregarse.</desc>
-    <date>2022</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001206502/web</url>
-  </programme>
-  <programme start="20260701233000 -0400" stop="20260702000000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo en la noche</title>
-    <sub-title lang="en">Noticias Telemundo en la noche</sub-title>
-    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
-    <date>2020</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092613/web</url>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260702010000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">El Pelotazo</title>
-    <sub-title lang="en">Season 1 Episode 475</sub-title>
-    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002155162/web</url>
-  </programme>
-  <programme start="20260702010000 -0400" stop="20260702020000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Al Rojo Vivo: Edición Mundial</title>
-    <sub-title lang="en">Al Rojo Vivo: Edición Mundial</sub-title>
-    <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002155191/web</url>
-  </programme>
   <programme start="20260702020000 -0400" stop="20260702023000 -0400" channel="tvguide.9200011927.telemundo">
     <title lang="en">Planeta Tierra</title>
     <sub-title lang="en">Corales</sub-title>
@@ -586,5 +394,188 @@
     <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA.</desc>
     <date>2026</date>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002160781/web</url>
+  </programme>
+  <programme start="20260704023000 -0400" stop="20260704030000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Planeta Tierra</title>
+    <sub-title lang="en">Planeta Tierra</sub-title>
+    <desc lang="en">Una mirada a la flora, fauna y los ecosistemas que componen la naturaleza del lugar que los humanos llaman hogar, el planeta Tierra.</desc>
+    <date>2025</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001472768/web</url>
+  </programme>
+  <programme start="20260704030000 -0400" stop="20260704040000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">El Pelotazo</title>
+    <sub-title lang="en">Season 1 Episode 477</sub-title>
+    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002160771/web</url>
+  </programme>
+  <programme start="20260704040000 -0400" stop="20260704050000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Al Rojo Vivo: Edición Mundial</title>
+    <sub-title lang="en">Al Rojo Vivo: Edición Mundial</sub-title>
+    <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002160781/web</url>
+  </programme>
+  <programme start="20260704050000 -0400" stop="20260704060000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">Secretos sepultados</sub-title>
+    <desc lang="en">Los presentadores de noticias y corresponsales de NBC contribuyen a informes de investigación, noticias de último momento, perfiles de los principales protagonistas de las noticias que exploran evento...</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">News</category>
+    <date>2012</date>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-8fab3e5adf7ed9654d487ce8c8e32ca0.jpg" />
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002118882/web</url>
+  </programme>
+  <programme start="20260704060000 -0400" stop="20260704063000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Programa pagado</title>
+    <sub-title lang="en">Programa pagado</sub-title>
+    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+    <rating>
+      <value>G</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
+  </programme>
+  <programme start="20260704063000 -0400" stop="20260704070000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Programa pagado</title>
+    <sub-title lang="en">Programa pagado</sub-title>
+    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+    <rating>
+      <value>G</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
+  </programme>
+  <programme start="20260704070000 -0400" stop="20260704073000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Programa pagado</title>
+    <sub-title lang="en">Programa pagado</sub-title>
+    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+    <rating>
+      <value>G</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
+  </programme>
+  <programme start="20260704073000 -0400" stop="20260704080000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Network Paid Programming</title>
+    <sub-title lang="en">Network Paid Programming</sub-title>
+    <date>2021</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000093032/web</url>
+  </programme>
+  <programme start="20260704080000 -0400" stop="20260704090000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo: Estados Unidos 250 Años - Un País de Inmigrantes</title>
+    <sub-title lang="en">Noticias Telemundo: Estados Unidos 250 Años - Un País de Inmigrantes</sub-title>
+    <desc lang="en">Estados Unidos conmemora su 250 aniversario y revela que la historia del país también es la de inmigrantes. El aporte hispano refleja la lucha, la identidad y la creación de una nación diversa.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002151508/web</url>
+  </programme>
+  <programme start="20260704090000 -0400" stop="20260704113000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Sail4th 250</title>
+    <sub-title lang="en">Sail4th 250</sub-title>
+    <desc lang="en">Celebra el aniversario 250 de EE.UU. con un espectáculo vibrante desde Nueva York. Un desfile internacional de embarcaciones por el río Hudson refleja la identidad cultural y honra este hito.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002160786/web</url>
+  </programme>
+  <programme start="20260704113000 -0400" stop="20260704120000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Hoy en el Mundial</title>
+    <sub-title lang="en">Hoy en el Mundial</sub-title>
+    <desc lang="en">Hoy en el Mundial, un espacio dedicado a celebrar la máxima cita del fútbol con todo lo que sucede dentro y fuera de la cancha.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110111/web</url>
+  </programme>
+  <programme start="20260704120000 -0400" stop="20260704123000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Vive el Mundial</title>
+    <sub-title lang="en">Vive el Mundial</sub-title>
+    <desc lang="en">La cuenta regresiva al primer partido de cada día está en Vive el Mundial. Desde los estudios y desde los estadios calentamos cada jornada.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110115/web</url>
+  </programme>
+  <programme start="20260704123000 -0400" stop="20260704150000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Copa Mundial de la FIFA 2026</title>
+    <sub-title lang="en">Copa Mundial de la FIFA 2026</sub-title>
+    <desc lang="en">Telemundo presenta la Copa Mundial de la FIFA 2026...</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110161/web</url>
+  </programme>
+  <programme start="20260704150000 -0400" stop="20260704153000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Pasión Mundial</title>
+    <sub-title lang="en">Pasión Mundial</sub-title>
+    <desc lang="en">Disfruta la celebración entre partidos que reúne lo mejor del juego recién terminado y lo que se espera del siguiente con las voces de los jugadores y segmentos cargados de acción.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110116/web</url>
+  </programme>
+  <programme start="20260704153000 -0400" stop="20260704160000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Enlace Mundial</title>
+    <sub-title lang="en">Enlace Mundial</sub-title>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
+  </programme>
+  <programme start="20260704160000 -0400" stop="20260704163000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Enlace Mundial</title>
+    <sub-title lang="en">Enlace Mundial</sub-title>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110123/web</url>
+  </programme>
+  <programme start="20260704163000 -0400" stop="20260704190000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Copa Mundial de la FIFA 2026</title>
+    <sub-title lang="en">Copa Mundial de la FIFA 2026</sub-title>
+    <desc lang="en">Telemundo presenta la Copa Mundial de la FIFA 2026...</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110161/web</url>
+  </programme>
+  <programme start="20260704190000 -0400" stop="20260704200000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Todo el Mundial</title>
+    <sub-title lang="en">Todo el Mundial</sub-title>
+    <desc lang="en">Todo el Mundial es tu espacio post partido del Mundial 2026 con resultados, análisis, protagonistas y las noticias más importantes de cada jornada.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002110128/web</url>
+  </programme>
+  <programme start="20260704200000 -0400" stop="20260704220000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Macy's Celebración del 4 de Julio</title>
+    <sub-title lang="en">Macy's Celebración del 4 de Julio</sub-title>
+    <desc lang="en">La icónica celebración del 4 de julio ilumina Nueva York con deslumbrantes fuegos artificiales y la música de Post Malone, Bebe Rexha, Blake Shelton, Shaboozey y Salt-N-Pepa, entre otros.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002169732/web</url>
+  </programme>
+  <programme start="20260704220000 -0400" stop="20260704230000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo: Estados Unidos 250 Años Celebración del 4 de Julio</title>
+    <sub-title lang="en">Noticias Telemundo: Estados Unidos 250 Años Celebración del 4 de Julio</sub-title>
+    <desc lang="en">En los 250 años de Independencia, el corazón de las fiestas del 4 de julio se vive al máximo. Desde las tradiciones hasta las ceremonias que capturan patriotismo, reflexión y orgullo nacional.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002170107/web</url>
+  </programme>
+  <programme start="20260704230000 -0400" stop="20260704233000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Fin de semana</title>
+    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
+    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+    <date>2014</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
+  </programme>
+  <programme start="20260704233000 -0400" stop="20260705000000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Fin de semana</title>
+    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
+    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+    <date>2014</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260705010000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">El Pelotazo</title>
+    <sub-title lang="en">Season 1 Episode 478</sub-title>
+    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002169736/web</url>
+  </programme>
+  <programme start="20260705010000 -0400" stop="20260705020000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo: Estados Unidos 250 Años - Un País de Inmigrantes</title>
+    <sub-title lang="en">Noticias Telemundo: Estados Unidos 250 Años - Un País de Inmigrantes</sub-title>
+    <desc lang="en">Estados Unidos conmemora su 250 aniversario y revela que la historia del país también es la de inmigrantes. El aporte hispano refleja la lucha, la identidad y la creación de una nación diversa.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002151508/web</url>
+  </programme>
+  <programme start="20260705020000 -0400" stop="20260705030000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Vida de Campeones</title>
+    <sub-title lang="en">Diego Lugano</sub-title>
+    <desc lang="en">Diego Lugano, exfutbolista uruguayo que jugó como defensa central y fue capitán de la selección uruguaya. Ganó la Copa América 2011 y destacó en clubes como São Paulo y Fenerbahçe.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002134976/web</url>
   </programme>
 </tv>
