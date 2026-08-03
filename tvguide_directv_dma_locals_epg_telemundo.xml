@@ -5,228 +5,6 @@
     <display-name>TELMUN</display-name>
     <icon src="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011927_light.png" />
   </channel>
-  <programme start="20260802013000 -0400" stop="20260802023000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Acércate a Rocio</title>
-    <sub-title lang="en">Mi suegra me dice hambreada</sub-title>
-    <desc lang="en">Berenice está embarazada, Cristian es su novio, él no es el padre de su hijo pero se quiere hacer cargo del bebé y de ella, sin embargo la suegra de Berenice no la baja de hambreada.</desc>
-    <date>2025</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000571013/web</url>
-  </programme>
-  <programme start="20260802023000 -0400" stop="20260802050000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Los campeones</title>
-    <sub-title lang="en">Los campeones</sub-title>
-    <date>2023</date>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002216375/web</url>
-  </programme>
-  <programme start="20260802050000 -0400" stop="20260802053000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802053000 -0400" stop="20260802060000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802060000 -0400" stop="20260802063000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802063000 -0400" stop="20260802070000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802070000 -0400" stop="20260802073000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802073000 -0400" stop="20260802080000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Network Paid Programming</title>
-    <sub-title lang="en">Network Paid Programming</sub-title>
-    <date>2021</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000093032/web</url>
-  </programme>
-  <programme start="20260802080000 -0400" stop="20260802083000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Programa pagado</title>
-    <sub-title lang="en">Programa pagado</sub-title>
-    <desc lang="en">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088273/web</url>
-  </programme>
-  <programme start="20260802083000 -0400" stop="20260802103000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Vivo</title>
-    <desc lang="en">Un mamífero de la selva tropical con talento musical intenta encontrar el camino desde La Habana a Miami para entregarle una canción a la amante perdida de su dueño antes de que sea demasiado tarde.</desc>
-    <category lang="en">Animation</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Family</category>
-    <category lang="en">Music</category>
-    <category lang="en">Musical</category>
-    <date>2021</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/2/2-6c5a018e8db556e0388fd627b119ef80.jpg" />
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000815785/web</url>
-  </programme>
-  <programme start="20260802103000 -0400" stop="20260802130000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Real Steel</title>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science Fiction</category>
-    <category lang="en">Sci-Fi</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Sport</category>
-    <date>2011</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/2/2-b714119996ae840c51b8e00db642db6a.jpg" />
-    <rating>
-      <value>G</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002170505/web</url>
-  </programme>
-  <programme start="20260802130000 -0400" stop="20260802153000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Jarhead</title>
-    <desc lang="en">Un joven soldado americano se convierte en miembro de una unidad de tiradores clandestinos durante la guerra Tormenta del Desierto, quienes van a enfrentarse a un enemigo que no entiende y que raramen...</desc>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">War</category>
-    <date>2005</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-e3c036ef8143ebf33418d8feccb94215.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001548843/web</url>
-  </programme>
-  <programme start="20260802153000 -0400" stop="20260802180000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">The Expendables 3</title>
-    <desc lang="en">Barney y su tropa se enfrentan con su excolega Conrad Stonebanks cuando el vindicativo hombre quiere ponerle un fin y matar al grupo que formo con Barney; Barney decide reclutar a nuevos miembros jóve...</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Thriller</category>
-    <date>2014</date>
-    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/2/2-ba195796a82420cb9515387e88fec655.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002231594/web</url>
-  </programme>
-  <programme start="20260802180000 -0400" stop="20260802183000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">Video sin permiso</sub-title>
-    <desc lang="en">Laura estudia audiovisuales y Ruby rompió su cámara por grabar un cortometraje.</desc>
-    <date>2022</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002231607/web</url>
-  </programme>
-  <programme start="20260802183000 -0400" stop="20260802190000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo Fin de semana</title>
-    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
-    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
-    <date>2014</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
-  </programme>
-  <programme start="20260802190000 -0400" stop="20260802195800 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Operación Triunfo</title>
-    <sub-title lang="en">Season 1 Episode 23</sub-title>
-    <desc lang="en">Jóvenes cantantes conviven y perfeccionan su talento en una academia de alto rendimiento. Allí compiten sobre el escenario por el éxito musical que cambiará sus vidas.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232082/web</url>
-  </programme>
-  <programme start="20260802195800 -0400" stop="20260802220000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Operación Triunfo</title>
-    <sub-title lang="en">Season 1 Episode 23</sub-title>
-    <desc lang="en">Jóvenes cantantes conviven y perfeccionan su talento en una academia de alto rendimiento. Allí compiten sobre el escenario por el éxito musical que cambiará sus vidas.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232083/web</url>
-  </programme>
-  <programme start="20260802220000 -0400" stop="20260802230000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Pica y se extiende</title>
-    <sub-title lang="en">Season 1 Episode 56</sub-title>
-    <desc lang="en">Lo picante y controversial del entretenimiento y todos los realities de Telemundo.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232978/web</url>
-  </programme>
-  <programme start="20260802230000 -0400" stop="20260802233000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo Fin de semana</title>
-    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
-    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
-    <date>2014</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
-  </programme>
-  <programme start="20260802233000 -0400" stop="20260803000000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Noticias Telemundo Fin de semana</title>
-    <sub-title lang="en">Noticias Telemundo Fin de semana</sub-title>
-    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable de la comunidad hispana en los Estados Unidos, su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
-    <date>2014</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090695/web</url>
-  </programme>
-  <programme start="20260803000000 -0400" stop="20260803003000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">El Pelotazo</title>
-    <sub-title lang="en">Season 1 Episode 508</sub-title>
-    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
-    <date>2026</date>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232951/web</url>
-  </programme>
-  <programme start="20260803003000 -0400" stop="20260803013000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Acércate a Rocio</title>
-    <sub-title lang="en">Me juzgan por mandilón</sub-title>
-    <desc lang="en">Un hombre dice que es mandilón por gusto propio, pero su mamá asegura que le dieron toloache, y su esposa ya está harta de que su suegra interfiera y se meta en su relación.</desc>
-    <date>2025</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000598254/web</url>
-  </programme>
-  <programme start="20260803013000 -0400" stop="20260803020000 -0400" channel="tvguide.9200011927.telemundo">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">A la luz pública</sub-title>
-    <desc lang="en">Mariana demanda a una periodista por informar que había defraudado al gobierno.</desc>
-    <date>2024</date>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001581624/web</url>
-  </programme>
   <programme start="20260803020000 -0400" stop="20260803043000 -0400" channel="tvguide.9200011927.telemundo">
     <title lang="en">The Expendables 3</title>
     <desc lang="en">Barney y su tropa se enfrentan con su excolega Conrad Stonebanks cuando el vindicativo hombre quiere ponerle un fin y matar al grupo que formo con Barney; Barney decide reclutar a nuevos miembros jóve...</desc>
@@ -667,5 +445,221 @@
     <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
     <date>2026</date>
     <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232960/web</url>
+  </programme>
+  <programme start="20260805030000 -0400" stop="20260805040000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232961/web</url>
+  </programme>
+  <programme start="20260805040000 -0400" stop="20260805050000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">La mesa caliente</title>
+    <sub-title lang="en">La mesa caliente</sub-title>
+    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate desde diversas perspectivas sobre el entretenimiento, los temas más candentes y controversiales que afectan a la comunidad latina en EE.UU.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232965/web</url>
+  </programme>
+  <programme start="20260805050000 -0400" stop="20260805053000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Gallinas egoístas</sub-title>
+    <desc lang="en">Arturo renta una habitación en casa de Miriam pero ella tiene unas reglas de ahorro tan estrictas que le imposibilitan vivir decentemente. Ahora quiere que le devuelva el dinero de los meses que pagó...</desc>
+    <date>2020</date>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001525089/web</url>
+  </programme>
+  <programme start="20260805053000 -0400" stop="20260805060000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <sub-title lang="en">Noticias Telemundo en la noche</sub-title>
+    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <date>2020</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092613/web</url>
+  </programme>
+  <programme start="20260805060000 -0400" stop="20260805070000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Al Rojo Vivo</title>
+    <sub-title lang="en">Al Rojo Vivo 08-04</sub-title>
+    <desc lang="en">Al Rojo Vivo es una de las revistas de noticias que define la agenda de la televisión en español en el EE. UU y ofrece historias nunca antes vistas que cautivan al público hispano y las presenta en un...</desc>
+    <date>2026</date>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232996/web</url>
+  </programme>
+  <programme start="20260805070000 -0400" stop="20260805080000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Ahora</title>
+    <sub-title lang="en">Noticias Telemundo Ahora</sub-title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <date>2024</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001206507/web</url>
+  </programme>
+  <programme start="20260805080000 -0400" stop="20260805113000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Hoy Día</title>
+    <sub-title lang="en">Hoy Día</sub-title>
+    <desc lang="en">El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos...</desc>
+    <date>2021</date>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092955/web</url>
+  </programme>
+  <programme start="20260805113000 -0400" stop="20260805120000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Reina de corazones</title>
+    <desc lang="en">Una historia en un mundo de juegos, apuestas y secretos perversos, en la que el amor deberá someterse a muchas pruebas y obstáculos, incluso a la de atravesar las intrincadas barreras de la memoria.</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <date>2014</date>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-f10015882099e57d0e0f694fe0c4f7ef.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002200896/web</url>
+  </programme>
+  <programme start="20260805120000 -0400" stop="20260805123000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Santa Diabla</title>
+    <sub-title lang="en">Santa Diabla</sub-title>
+    <desc lang="en">from Miami, Fort Lauderdale, Florida</desc>
+    <date>2013</date>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000090424/web</url>
+  </programme>
+  <programme start="20260805123000 -0400" stop="20260805130000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Mediodía</title>
+    <sub-title lang="en">Noticias Telemundo Mediodía</sub-title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias, de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <date>2018</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000091793/web</url>
+  </programme>
+  <programme start="20260805130000 -0400" stop="20260805140000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232962/web</url>
+  </programme>
+  <programme start="20260805140000 -0400" stop="20260805150000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232963/web</url>
+  </programme>
+  <programme start="20260805150000 -0400" stop="20260805160000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">La mesa caliente</title>
+    <sub-title lang="en">La mesa caliente</sub-title>
+    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate desde diversas perspectivas sobre el entretenimiento, los temas más candentes y controversiales que afectan a la comunidad latina en EE.UU.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232966/web</url>
+  </programme>
+  <programme start="20260805160000 -0400" stop="20260805170000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Al Rojo Vivo</title>
+    <sub-title lang="en">Al Rojo Vivo 08-05</sub-title>
+    <desc lang="en">Al Rojo Vivo es una de las revistas de noticias que define la agenda de la televisión en español en el EE. UU y ofrece historias nunca antes vistas que cautivan al público hispano y las presenta en un...</desc>
+    <date>2026</date>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232999/web</url>
+  </programme>
+  <programme start="20260805170000 -0400" stop="20260805180000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232962/web</url>
+  </programme>
+  <programme start="20260805180000 -0400" stop="20260805183000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo Mediodía</title>
+    <sub-title lang="en">Noticias Telemundo Mediodía</sub-title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias, de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <date>2018</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000091793/web</url>
+  </programme>
+  <programme start="20260805183000 -0400" stop="20260805190000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo</title>
+    <sub-title lang="en">Noticias Telemundo</sub-title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en Estados Unidos, sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088394/web</url>
+  </programme>
+  <programme start="20260805190000 -0400" stop="20260805210000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Operación Triunfo</title>
+    <sub-title lang="en">Season 1 Episode 26</sub-title>
+    <desc lang="en">Jóvenes cantantes conviven y perfeccionan su talento en una academia de alto rendimiento. Allí compiten sobre el escenario por el éxito musical que cambiará sus vidas.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232976/web</url>
+  </programme>
+  <programme start="20260805210000 -0400" stop="20260805220000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">The Lord of the Skies</title>
+    <sub-title lang="en">El deseo de Aurelio</sub-title>
+    <desc lang="en">El asesinato de Nina abre la puerta a la venganza, mientras Lucy se convierte en la principal sospechosa. Aurelio escucha una conversación, se entera de un secreto y habla con su hijo Isidro.</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">9.21.</episode-num>
+    <episode-num system="onscreen">S10E22</episode-num>
+    <date>2026</date>
+    <icon src="https://www.tvguide.com/a/img/catalog/provider/2/13/2-0cfde3c52f2fc1177db75ed5d7b8c410.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002235063/web</url>
+  </programme>
+  <programme start="20260805220000 -0400" stop="20260805230000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Lejos de Ti</title>
+    <sub-title lang="en">Season 2 Episode 17</sub-title>
+    <desc lang="en">Alya llega a Albora para enterrar a su esposo y se enfrenta, por primera vez, a una poderosa familia impulsada por la venganza. Proteger a su hijo Deniz y recuperar su libertad no será fácil.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002235065/web</url>
+  </programme>
+  <programme start="20260805230000 -0400" stop="20260805233500 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo</title>
+    <sub-title lang="en">Noticias Telemundo</sub-title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en Estados Unidos, sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000088394/web</url>
+  </programme>
+  <programme start="20260805233500 -0400" stop="20260806000000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <sub-title lang="en">Noticias Telemundo en la noche</sub-title>
+    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <date>2020</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9000092613/web</url>
+  </programme>
+  <programme start="20260806000000 -0400" stop="20260806003000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">El Pelotazo</title>
+    <sub-title lang="en">Season 1 Episode 511</sub-title>
+    <desc lang="en">La nueva y refrescante apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y mucha polémica; el seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002235052/web</url>
+  </programme>
+  <programme start="20260806003000 -0400" stop="20260806013000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Eres mi luz</title>
+    <sub-title lang="en">Un regreso inesperado</sub-title>
+    <desc lang="en">En medio de su tristeza, Haziran debe marcharse para aceptar la propuesta de trabajo. Idil la acompaña al puerto para asegurarse de que se vaya. Poyraz toma una decisión trascendental.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002235053/web</url>
+  </programme>
+  <programme start="20260806013000 -0400" stop="20260806020000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">El disparo oscuro</sub-title>
+    <desc lang="en">Después de una pelea domestica con su esposo, una mujer se despierta del coma dos meses después y descubre que ella tenía heridas de chuchillo en su cuerpo, su bebe infante había muerto y su esposo es...</desc>
+    <date>2024</date>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9001189169/web</url>
+  </programme>
+  <programme start="20260806020000 -0400" stop="20260806030000 -0400" channel="tvguide.9200011927.telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">En casa con Telemundo</sub-title>
+    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.</desc>
+    <date>2026</date>
+    <url>https://backend.tvguide.com/tvschedules/tvguide/programdetails/9002232962/web</url>
   </programme>
 </tv>
